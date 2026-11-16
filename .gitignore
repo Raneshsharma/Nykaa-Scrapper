@@ -23,3 +23,9 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Secrets & local data (added for the intelligence pipeline)
+.env
+*.env.txt
+*.db
+nykaa_intel.db
