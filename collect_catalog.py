@@ -6,10 +6,13 @@ rating per product, stores a DATED snapshot, then estimates daily sales/revenue.
 Storage backend (SQLite or Supabase Postgres) is chosen in storage.py via env.
 """
 import re, json, time, random, argparse
-from datetime import datetime, date
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from nykaa_scraper import NykaaScraper
 from nykaa_scraper.utils import logger
 import storage
+
+IST = ZoneInfo("Asia/Kolkata")
 
 
 def _extract_state(html):
@@ -51,8 +54,9 @@ def collect(base_url, category_label, max_pages=None):
     storage.init_schema(conn, flavor)
     logger.info(f"storage backend: {flavor}")
 
-    today = date.today().isoformat()
-    now = datetime.now().isoformat(timespec="seconds")
+    _now = datetime.now(IST)
+    today = _now.date().isoformat()
+    now = _now.isoformat(timespec="seconds")
 
     rows, seen, rank, page, total = [], set(), 0, 1, None
     while True:

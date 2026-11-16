@@ -1,0 +1,2 @@
+500 fetched, 477 cats, 972 queued
+DONE: 477 categories, 439 leaf (<= 1800) covering ~154,967 products, 34 too-big (need deeper drill)

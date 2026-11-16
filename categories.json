@@ -1,0 +1,3341 @@
+[
+ {
+  "id": "2",
+  "label": "Nykaa Beauty Store",
+  "url": "https://www.nykaa.com/2/c/2",
+  "total": 406235,
+  "leaf": false
+ },
+ {
+  "id": "8377",
+  "label": "Skin",
+  "url": "https://www.nykaa.com/skin/c/8377",
+  "total": 11794,
+  "leaf": false
+ },
+ {
+  "id": "12",
+  "label": "Makeup",
+  "url": "https://www.nykaa.com/makeup/c/12",
+  "total": 10985,
+  "leaf": false
+ },
+ {
+  "id": "1380",
+  "label": "Bath & Body",
+  "url": "https://www.nykaa.com/bath-body/c/1380",
+  "total": 8503,
+  "leaf": false
+ },
+ {
+  "id": "24",
+  "label": "Hair",
+  "url": "https://www.nykaa.com/hair-care/c/24",
+  "total": 7495,
+  "leaf": false
+ },
+ {
+  "id": "9564",
+  "label": "Natural",
+  "url": "https://www.nykaa.com/natural/c/9564",
+  "total": 7357,
+  "leaf": false
+ },
+ {
+  "id": "194",
+  "label": "Nykaa Luxe",
+  "url": "https://www.nykaa.com/luxe/c/194",
+  "total": 6013,
+  "leaf": false
+ },
+ {
+  "id": "671",
+  "label": "Health & Wellness",
+  "url": "https://www.nykaa.com/wellness/c/671",
+  "total": 5014,
+  "leaf": false
+ },
+ {
+  "id": "5329",
+  "label": "Nykaa Beauty Flash Sale Online",
+  "url": "https://www.nykaa.com/nykaa-beauty-flash-sale-online/c/5329",
+  "total": 4495,
+  "leaf": false
+ },
+ {
+  "id": "53",
+  "label": "Fragrance",
+  "url": "https://www.nykaa.com/fragrance/c/53",
+  "total": 4448,
+  "leaf": false
+ },
+ {
+  "id": "25",
+  "label": "Hair Care",
+  "url": "https://www.nykaa.com/hair-care/hair/c/25",
+  "total": 3891,
+  "leaf": false
+ },
+ {
+  "id": "9565",
+  "label": "Skin",
+  "url": "https://www.nykaa.com/natural/skin/c/9565",
+  "total": 3670,
+  "leaf": false
+ },
+ {
+  "id": "91977",
+  "label": "Women's Health",
+  "url": "https://www.nykaa.com/wellness/women-s-health/c/91977",
+  "total": 3445,
+  "leaf": false
+ },
+ {
+  "id": "87228",
+  "label": "For Moms",
+  "url": "https://www.nykaa.com/mom-baby/for-moms/c/87228",
+  "total": 3440,
+  "leaf": false
+ },
+ {
+  "id": "65102",
+  "label": "New launches",
+  "url": "https://www.nykaa.com/best-of-new-launches-makeup/c/65102",
+  "total": 3380,
+  "leaf": false
+ },
+ {
+  "id": "13",
+  "label": "Face",
+  "url": "https://www.nykaa.com/makeup/face/c/13",
+  "total": 3037,
+  "leaf": false
+ },
+ {
+  "id": "2058",
+  "label": "Shop By Concern",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/c/2058",
+  "total": 2871,
+  "leaf": false
+ },
+ {
+  "id": "9623",
+  "label": "Shop By Concern",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/c/9623",
+  "total": 2757,
+  "leaf": false
+ },
+ {
+  "id": "217",
+  "label": "Tools & Brushes",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/c/217",
+  "total": 2690,
+  "leaf": false
+ },
+ {
+  "id": "110899",
+  "label": "H&M Kids",
+  "url": "https://www.nykaa.com/h-m-kids/c/110899",
+  "total": 2652,
+  "leaf": false
+ },
+ {
+  "id": "6190",
+  "label": "Best Skin Care For Dry Skin Online Sale",
+  "url": "https://www.nykaa.com/skin-type-collection/best-skin-care-for-dry-skin-online-sale/c/6190",
+  "total": 2591,
+  "leaf": false
+ },
+ {
+  "id": "54",
+  "label": "Womens Fragrance",
+  "url": "https://www.nykaa.com/fragrance/women/c/54",
+  "total": 2545,
+  "leaf": false
+ },
+ {
+  "id": "14797",
+  "label": "Mom & Baby",
+  "url": "https://www.nykaa.com/mom-baby/c/14797",
+  "total": 2482,
+  "leaf": false
+ },
+ {
+  "id": "219",
+  "label": "Tools & Accessories",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/c/219",
+  "total": 2471,
+  "leaf": false
+ },
+ {
+  "id": "79588",
+  "label": "Top Skincare Picks for Dehydration & Dryness",
+  "url": "https://www.nykaa.com/top-skincare-picks-for-dehydration-dryness/c/79588",
+  "total": 2348,
+  "leaf": false
+ },
+ {
+  "id": "14",
+  "label": "Eyes",
+  "url": "https://www.nykaa.com/makeup/eyes/c/14",
+  "total": 2315,
+  "leaf": false
+ },
+ {
+  "id": "8393",
+  "label": "Moisturizers",
+  "url": "https://www.nykaa.com/skin/moisturizers/c/8393",
+  "total": 2250,
+  "leaf": false
+ },
+ {
+  "id": "8435",
+  "label": "Kits & Combos",
+  "url": "https://www.nykaa.com/skin/kits-combos/c/8435",
+  "total": 2166,
+  "leaf": false
+ },
+ {
+  "id": "79608",
+  "label": "Top Skincare Picks for Dullness",
+  "url": "https://www.nykaa.com/top-skincare-picks-for-dullness/c/79608",
+  "total": 2165,
+  "leaf": false
+ },
+ {
+  "id": "962",
+  "label": "Perfumes (EDT & EDP)",
+  "url": "https://www.nykaa.com/fragrance/women/perfumes-edt-edp/c/962",
+  "total": 2093,
+  "leaf": false
+ },
+ {
+  "id": "8378",
+  "label": "Cleansers",
+  "url": "https://www.nykaa.com/skin/cleansers/c/8378",
+  "total": 1988,
+  "leaf": false
+ },
+ {
+  "id": "15",
+  "label": "Lips",
+  "url": "https://www.nykaa.com/makeup/lips/c/15",
+  "total": 1953,
+  "leaf": false
+ },
+ {
+  "id": "35",
+  "label": "Bath & Shower",
+  "url": "https://www.nykaa.com/bath-body/bath-and-shower/c/35",
+  "total": 1867,
+  "leaf": false
+ },
+ {
+  "id": "9597",
+  "label": "Hair",
+  "url": "https://www.nykaa.com/natural/hair/c/9597",
+  "total": 1834,
+  "leaf": false
+ },
+ {
+  "id": "8394",
+  "label": "Face Moisturizer & Day Cream",
+  "url": "https://www.nykaa.com/skin/moisturizers/face-moisturizer-day-cream/c/8394",
+  "total": 1789,
+  "leaf": true
+ },
+ {
+  "id": "84424",
+  "label": "Fragrance Kits & Combos",
+  "url": "https://www.nykaa.com/fragrance/fragrance-kits-combos/c/84424",
+  "total": 1784,
+  "leaf": true
+ },
+ {
+  "id": "55",
+  "label": "Mens Fragrance",
+  "url": "https://www.nykaa.com/fragrance/men/c/55",
+  "total": 1766,
+  "leaf": true
+ },
+ {
+  "id": "974",
+  "label": "Perfumes (EDT & EDP)",
+  "url": "https://www.nykaa.com/fragrance/men/perfumes-edt-edp/c/974",
+  "total": 1760,
+  "leaf": true
+ },
+ {
+  "id": "25329",
+  "label": "Kits & Combos",
+  "url": "https://www.nykaa.com/bath-body/kits-combos/c/25329",
+  "total": 1712,
+  "leaf": true
+ },
+ {
+  "id": "15752",
+  "label": "Bestsellers",
+  "url": "https://www.nykaa.com/bestsellers/c/15752",
+  "total": 1658,
+  "leaf": true
+ },
+ {
+  "id": "6184",
+  "label": "Best Skin Care For Combination Skin Online Sale",
+  "url": "https://www.nykaa.com/skin-type-collection/best-skin-care-for-combination-skin-online-sale/c/6184",
+  "total": 1642,
+  "leaf": true
+ },
+ {
+  "id": "73006",
+  "label": "Serums",
+  "url": "https://www.nykaa.com/skin/serums/c/73006",
+  "total": 1637,
+  "leaf": true
+ },
+ {
+  "id": "8397",
+  "label": "Serums & Essence",
+  "url": "https://www.nykaa.com/skin/serums/serums-essence/c/8397",
+  "total": 1634,
+  "leaf": true
+ },
+ {
+  "id": "36",
+  "label": "Body Care",
+  "url": "https://www.nykaa.com/bath-body/body-care/c/36",
+  "total": 1619,
+  "leaf": true
+ },
+ {
+  "id": "53665",
+  "label": "Shop New Launches",
+  "url": "https://www.nykaa.com/shop-new-launches/c/53665",
+  "total": 1608,
+  "leaf": true
+ },
+ {
+  "id": "8437",
+  "label": "Combos @ Nykaa",
+  "url": "https://www.nykaa.com/skin/kits-combos/combos-at-nykaa/c/8437",
+  "total": 1595,
+  "leaf": true
+ },
+ {
+  "id": "6195",
+  "label": "Best Skin Care For Oily Skin Online Sale",
+  "url": "https://www.nykaa.com/skin-type-collection/best-skin-care-for-oily-skin-online-sale/c/6195",
+  "total": 1584,
+  "leaf": true
+ },
+ {
+  "id": "22670",
+  "label": "Makeup Kits & Combos",
+  "url": "https://www.nykaa.com/makeup/makeup-kits-combos/c/22670",
+  "total": 1491,
+  "leaf": true
+ },
+ {
+  "id": "2880",
+  "label": "Fragrance",
+  "url": "https://www.nykaa.com/luxe/fragrance/c/2880",
+  "total": 1461,
+  "leaf": true
+ },
+ {
+  "id": "18696",
+  "label": "Fitness & Recovery",
+  "url": "https://www.nykaa.com/wellness/fitness-recovery/c/18696",
+  "total": 1420,
+  "leaf": true
+ },
+ {
+  "id": "316",
+  "label": "Shampoo",
+  "url": "https://www.nykaa.com/hair-care/hair/shampoo/c/316",
+  "total": 1393,
+  "leaf": true
+ },
+ {
+  "id": "9633",
+  "label": "Types of Skin",
+  "url": "https://www.nykaa.com/natural/types-of-skin/c/9633",
+  "total": 1340,
+  "leaf": true
+ },
+ {
+  "id": "54634",
+  "label": "Everyday Fragrances",
+  "url": "https://www.nykaa.com/everyday-fragrances/c/54634",
+  "total": 1288,
+  "leaf": true
+ },
+ {
+  "id": "8399",
+  "label": "Masks",
+  "url": "https://www.nykaa.com/skin/masks/c/8399",
+  "total": 1252,
+  "leaf": true
+ },
+ {
+  "id": "8379",
+  "label": "Face Wash",
+  "url": "https://www.nykaa.com/skin/cleansers/face-wash/c/8379",
+  "total": 1240,
+  "leaf": true
+ },
+ {
+  "id": "61423",
+  "label": "Nykaa Everyday Fragrances",
+  "url": "https://www.nykaa.com/nykaa-everyday-fragrances/c/61423",
+  "total": 1238,
+  "leaf": true
+ },
+ {
+  "id": "52752",
+  "label": "Hair Kits & Combos",
+  "url": "https://www.nykaa.com/hair-care/hair-kits-combos/c/52752",
+  "total": 1227,
+  "leaf": true
+ },
+ {
+  "id": "2046",
+  "label": "Dry & Frizzy Hair",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/dry-frizzy-hair/c/2046",
+  "total": 1199,
+  "leaf": true
+ },
+ {
+  "id": "9639",
+  "label": "Combos @ Nykaa",
+  "url": "https://www.nykaa.com/natural/combos-at-nykaa/c/9639",
+  "total": 1161,
+  "leaf": true
+ },
+ {
+  "id": "84423",
+  "label": "Gifting",
+  "url": "https://www.nykaa.com/mom-baby/gifting/c/84423",
+  "total": 1157,
+  "leaf": true
+ },
+ {
+  "id": "39",
+  "label": "Female Grooming",
+  "url": "https://www.nykaa.com/bath-body/female-grooming/c/39",
+  "total": 1150,
+  "leaf": true
+ },
+ {
+  "id": "9605",
+  "label": "Body Care",
+  "url": "https://www.nykaa.com/natural/body-care/c/9605",
+  "total": 1145,
+  "leaf": true
+ },
+ {
+  "id": "1390",
+  "label": "Appliances",
+  "url": "https://www.nykaa.com/personal-care-appliances/c/1390",
+  "total": 1135,
+  "leaf": true
+ },
+ {
+  "id": "2871",
+  "label": "Skin",
+  "url": "https://www.nykaa.com/luxe/skin/c/2871",
+  "total": 1109,
+  "leaf": true
+ },
+ {
+  "id": "79606",
+  "label": "Top Skincare Picks for Acne & Blemishes",
+  "url": "https://www.nykaa.com/top-skincare-picks-for-acne-blemishes/c/79606",
+  "total": 1109,
+  "leaf": true
+ },
+ {
+  "id": "18540",
+  "label": "Daily Nutrition",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/c/18540",
+  "total": 1104,
+  "leaf": true
+ },
+ {
+  "id": "371",
+  "label": "Body Lotions & Moisturizers",
+  "url": "https://www.nykaa.com/bath-body/body-care/body-lotions-moisturizers/c/371",
+  "total": 1093,
+  "leaf": true
+ },
+ {
+  "id": "9634",
+  "label": "Dry Skin",
+  "url": "https://www.nykaa.com/natural/types-of-skin/dry-skin/c/9634",
+  "total": 1087,
+  "leaf": true
+ },
+ {
+  "id": "18312",
+  "label": "Shop by Fragrance Family",
+  "url": "https://www.nykaa.com/fragrance/shop-by-fragrance-family/c/18312",
+  "total": 1071,
+  "leaf": true
+ },
+ {
+  "id": "1092",
+  "label": "Fragrance Kits",
+  "url": "https://www.nykaa.com/fragrance/fragrance-kits-combos/gifts-at-nykaa/c/1092",
+  "total": 1063,
+  "leaf": true
+ },
+ {
+  "id": "9635",
+  "label": "Normal Skin",
+  "url": "https://www.nykaa.com/natural/types-of-skin/normal-skin/c/9635",
+  "total": 1044,
+  "leaf": true
+ },
+ {
+  "id": "9636",
+  "label": "Oily Skin",
+  "url": "https://www.nykaa.com/natural/types-of-skin/oily-skin/c/9636",
+  "total": 1040,
+  "leaf": true
+ },
+ {
+  "id": "8428",
+  "label": "Sun Care",
+  "url": "https://www.nykaa.com/skin/sun-care/c/8428",
+  "total": 1026,
+  "leaf": true
+ },
+ {
+  "id": "5333",
+  "label": "Natural",
+  "url": "https://www.nykaa.com/men/c/5333",
+  "total": 1001,
+  "leaf": true
+ },
+ {
+  "id": "368",
+  "label": "Shower Gels & Body Wash",
+  "url": "https://www.nykaa.com/bath-body/bath-and-shower/shower-gels-body-wash/c/368",
+  "total": 994,
+  "leaf": true
+ },
+ {
+  "id": "87221",
+  "label": "Diaper Essentials",
+  "url": "https://www.nykaa.com/mom-baby/diaper-essentials/c/87221",
+  "total": 986,
+  "leaf": true
+ },
+ {
+  "id": "9637",
+  "label": "Combination Skin",
+  "url": "https://www.nykaa.com/natural/types-of-skin/combination-skin/c/9637",
+  "total": 986,
+  "leaf": true
+ },
+ {
+  "id": "78386",
+  "label": "Luxe Makeup",
+  "url": "https://www.nykaa.com/luxe-makeup/c/78386",
+  "total": 981,
+  "leaf": true
+ },
+ {
+  "id": "8429",
+  "label": "Face Sunscreen",
+  "url": "https://www.nykaa.com/skin/sun-care/face-sunscreen/c/8429",
+  "total": 974,
+  "leaf": true
+ },
+ {
+  "id": "9625",
+  "label": "Pigmentation",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/pigmentation/c/9625",
+  "total": 957,
+  "leaf": true
+ },
+ {
+  "id": "1214",
+  "label": "Hairfall & Thinning",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/hairfall-thinning/c/1214",
+  "total": 934,
+  "leaf": true
+ },
+ {
+  "id": "25594",
+  "label": "Makeup Kits",
+  "url": "https://www.nykaa.com/makeup/makeup-kits-combos/makeup-kits/c/25594",
+  "total": 925,
+  "leaf": true
+ },
+ {
+  "id": "1648",
+  "label": "Feminine Hygiene",
+  "url": "https://www.nykaa.com/bath-body/feminine-hygiene/c/1648",
+  "total": 920,
+  "leaf": true
+ },
+ {
+  "id": "267",
+  "label": "Face Brush",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/face-brush/c/267",
+  "total": 908,
+  "leaf": true
+ },
+ {
+  "id": "25330",
+  "label": "Bath & Body Kits",
+  "url": "https://www.nykaa.com/bath-body/kits-combos/bath-body-kits/c/25330",
+  "total": 903,
+  "leaf": true
+ },
+ {
+  "id": "2041",
+  "label": "Hair Creams & Masks",
+  "url": "https://www.nykaa.com/hair-care/hair/hair-creams-masks/c/2041",
+  "total": 893,
+  "leaf": true
+ },
+ {
+  "id": "3098",
+  "label": "Babydolls",
+  "url": "https://www.nykaa.com/mom-and-baby/c/3098",
+  "total": 878,
+  "leaf": true
+ },
+ {
+  "id": "2907",
+  "label": "Perfumes (EDP/EDT)",
+  "url": "https://www.nykaa.com/luxe/fragrance/perfumes-edp-edt/c/2907",
+  "total": 876,
+  "leaf": true
+ },
+ {
+  "id": "9626",
+  "label": "Acne Treatment",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/acne-treatment/c/9626",
+  "total": 867,
+  "leaf": true
+ },
+ {
+  "id": "9627",
+  "label": "Skin Lightening",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/skin-lightening/c/9627",
+  "total": 866,
+  "leaf": true
+ },
+ {
+  "id": "28",
+  "label": "Hair Styling",
+  "url": "https://www.nykaa.com/hair-care/hair-styling/c/28",
+  "total": 856,
+  "leaf": true
+ },
+ {
+  "id": "15864",
+  "label": "Women",
+  "url": "https://www.nykaa.com/luxe/fragrance/women/c/15864",
+  "total": 850,
+  "leaf": true
+ },
+ {
+  "id": "2048",
+  "label": "Hair Brushes",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/hair-brushes/c/2048",
+  "total": 822,
+  "leaf": true
+ },
+ {
+  "id": "927",
+  "label": "Hair Combos",
+  "url": "https://www.nykaa.com/hair-care/hair-kits-combos/combos-at-nykaa/c/927",
+  "total": 822,
+  "leaf": true
+ },
+ {
+  "id": "86468",
+  "label": "Luxe Mini Mart",
+  "url": "https://www.nykaa.com/luxe-mini-mart/c/86468",
+  "total": 820,
+  "leaf": true
+ },
+ {
+  "id": "734",
+  "label": "Shop By Concern",
+  "url": "https://www.nykaa.com/wellness/shop-by-concern/c/734",
+  "total": 814,
+  "leaf": true
+ },
+ {
+  "id": "25331",
+  "label": "Bath & Body Combos",
+  "url": "https://www.nykaa.com/bath-body/kits-combos/bath-body-combos/c/25331",
+  "total": 814,
+  "leaf": true
+ },
+ {
+  "id": "19784",
+  "label": "Skin New Launches",
+  "url": "https://www.nykaa.com/skin-new-launches/c/19784",
+  "total": 812,
+  "leaf": true
+ },
+ {
+  "id": "1643",
+  "label": "Tools & Accessories",
+  "url": "https://www.nykaa.com/bath-body/tools-accessories/c/1643",
+  "total": 809,
+  "leaf": true
+ },
+ {
+  "id": "94785",
+  "label": "Hospital Bag",
+  "url": "https://www.nykaa.com/hospital-bag/c/94785",
+  "total": 806,
+  "leaf": true
+ },
+ {
+  "id": "92312",
+  "label": "Luxe Hair & Bodycare",
+  "url": "https://www.nykaa.com/luxe-hair-bodycare/c/92312",
+  "total": 805,
+  "leaf": true
+ },
+ {
+  "id": "2040",
+  "label": "Hair Oil",
+  "url": "https://www.nykaa.com/hair-care/hair/hair-oil/c/2040",
+  "total": 765,
+  "leaf": true
+ },
+ {
+  "id": "16",
+  "label": "Nails",
+  "url": "https://www.nykaa.com/makeup/nails/c/16",
+  "total": 761,
+  "leaf": true
+ },
+ {
+  "id": "79605",
+  "label": "Top Skincare Picks for Fine Lines & Wrinkles",
+  "url": "https://www.nykaa.com/top-skincare-picks-for-fine-lines-wrinkles/c/79605",
+  "total": 729,
+  "leaf": true
+ },
+ {
+  "id": "6205",
+  "label": "Best Skin Care For Sensitive Skin Online Sale",
+  "url": "https://www.nykaa.com/skin-type-collection/best-skin-care-for-sensitive-skin-online-sale/c/6205",
+  "total": 719,
+  "leaf": true
+ },
+ {
+  "id": "9628",
+  "label": "Anti Aging",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/anti-aging/c/9628",
+  "total": 715,
+  "leaf": true
+ },
+ {
+  "id": "319",
+  "label": "Conditioner",
+  "url": "https://www.nykaa.com/hair-care/hair/conditioner/c/319",
+  "total": 712,
+  "leaf": true
+ },
+ {
+  "id": "249",
+  "label": "Lipstick",
+  "url": "https://www.nykaa.com/makeup/lips/lipstick/c/249",
+  "total": 711,
+  "leaf": true
+ },
+ {
+  "id": "8408",
+  "label": "Lip Care",
+  "url": "https://www.nykaa.com/skin/lip-care/c/8408",
+  "total": 703,
+  "leaf": true
+ },
+ {
+  "id": "2047",
+  "label": "Hair Growth",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/hair-growth/c/2047",
+  "total": 688,
+  "leaf": true
+ },
+ {
+  "id": "3126",
+  "label": "Premium & Designer Fragrance",
+  "url": "https://www.nykaa.com/fragrance/luxe/c/3126",
+  "total": 664,
+  "leaf": true
+ },
+ {
+  "id": "367",
+  "label": "Soaps",
+  "url": "https://www.nykaa.com/bath-body/bath-and-shower/soaps/c/367",
+  "total": 663,
+  "leaf": true
+ },
+ {
+  "id": "8391",
+  "label": "Shop Toners & Mists",
+  "url": "https://www.nykaa.com/skin/toners-mists/c/8391",
+  "total": 661,
+  "leaf": true
+ },
+ {
+  "id": "345",
+  "label": "Shop By Hair Type",
+  "url": "https://www.nykaa.com/hair-care/shop-by-hair-type/c/345",
+  "total": 657,
+  "leaf": true
+ },
+ {
+  "id": "9614",
+  "label": "Aromatherapy",
+  "url": "https://www.nykaa.com/natural/aromatherapy/c/9614",
+  "total": 651,
+  "leaf": true
+ },
+ {
+  "id": "18314",
+  "label": "Floral",
+  "url": "https://www.nykaa.com/fragrance/shop-by-fragrance-family/floral/c/18314",
+  "total": 651,
+  "leaf": true
+ },
+ {
+  "id": "25595",
+  "label": "Makeup Combos",
+  "url": "https://www.nykaa.com/makeup/makeup-kits-combos/makeup-combos/c/25595",
+  "total": 649,
+  "leaf": true
+ },
+ {
+  "id": "8400",
+  "label": "Masks & Peels",
+  "url": "https://www.nykaa.com/skin/masks/masks-peels/c/8400",
+  "total": 645,
+  "leaf": true
+ },
+ {
+  "id": "8392",
+  "label": "Toners & Mists",
+  "url": "https://www.nykaa.com/skin/toners-mists/toners-mists/c/8392",
+  "total": 645,
+  "leaf": true
+ },
+ {
+  "id": "9638",
+  "label": "New Launches",
+  "url": "https://www.nykaa.com/natural/new-launches/c/9638",
+  "total": 643,
+  "leaf": true
+ },
+ {
+  "id": "346",
+  "label": "Curly & Wavy",
+  "url": "https://www.nykaa.com/hair-care/shop-by-hair-type/curly-wavy/c/346",
+  "total": 636,
+  "leaf": true
+ },
+ {
+  "id": "271",
+  "label": "Sponges & Applicators",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/sponges-applicators/c/271",
+  "total": 631,
+  "leaf": true
+ },
+ {
+  "id": "6144",
+  "label": "Skin Type Collection",
+  "url": "https://www.nykaa.com/skin-type-collection/c/6144",
+  "total": 631,
+  "leaf": true
+ },
+ {
+  "id": "8409",
+  "label": "Lip Balm",
+  "url": "https://www.nykaa.com/skin/lip-care/lip-balm/c/8409",
+  "total": 626,
+  "leaf": true
+ },
+ {
+  "id": "18568",
+  "label": "Herbal & Ayurvedic",
+  "url": "https://www.nykaa.com/wellness/herbal-ayurvedic/c/18568",
+  "total": 624,
+  "leaf": true
+ },
+ {
+  "id": "1552",
+  "label": "Male Grooming",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/c/1552",
+  "total": 605,
+  "leaf": true
+ },
+ {
+  "id": "18546",
+  "label": "Beauty Boosters",
+  "url": "https://www.nykaa.com/wellness/beauty-boosters/c/18546",
+  "total": 605,
+  "leaf": true
+ },
+ {
+  "id": "268",
+  "label": "Eye Brush",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/eye-brush/c/268",
+  "total": 586,
+  "leaf": true
+ },
+ {
+  "id": "14798",
+  "label": "Baby Care",
+  "url": "https://www.nykaa.com/mom-baby/baby-care/c/14798",
+  "total": 580,
+  "leaf": true
+ },
+ {
+  "id": "228",
+  "label": "Foundation",
+  "url": "https://www.nykaa.com/makeup/face/face-foundation/c/228",
+  "total": 574,
+  "leaf": true
+ },
+ {
+  "id": "9630",
+  "label": "Hairfall",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/hairfall/c/9630",
+  "total": 573,
+  "leaf": true
+ },
+ {
+  "id": "87220",
+  "label": "Skin, Body & Hair Care",
+  "url": "https://www.nykaa.com/mom-baby/skin-body-hair-care/c/87220",
+  "total": 558,
+  "leaf": true
+ },
+ {
+  "id": "2444",
+  "label": "Hair Accessories",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/hair-accessories/c/2444",
+  "total": 545,
+  "leaf": true
+ },
+ {
+  "id": "9568",
+  "label": "Moisturizer",
+  "url": "https://www.nykaa.com/natural/skin/moisturizer/c/9568",
+  "total": 544,
+  "leaf": true
+ },
+ {
+  "id": "329",
+  "label": "Straight",
+  "url": "https://www.nykaa.com/hair-care/shop-by-hair-type/straight/c/329",
+  "total": 543,
+  "leaf": true
+ },
+ {
+  "id": "320",
+  "label": "Hair Serum",
+  "url": "https://www.nykaa.com/hair-care/hair/hair-serum/c/320",
+  "total": 540,
+  "leaf": true
+ },
+ {
+  "id": "242",
+  "label": "Eye Shadow",
+  "url": "https://www.nykaa.com/makeup/eyes/eyeshadow/c/242",
+  "total": 537,
+  "leaf": true
+ },
+ {
+  "id": "9598",
+  "label": "Shampoo & Cleanser",
+  "url": "https://www.nykaa.com/natural/hair/shampoo-cleanser/c/9598",
+  "total": 537,
+  "leaf": true
+ },
+ {
+  "id": "235",
+  "label": "Blush",
+  "url": "https://www.nykaa.com/makeup/face/face-blush/c/235",
+  "total": 535,
+  "leaf": true
+ },
+ {
+  "id": "15870",
+  "label": "Men",
+  "url": "https://www.nykaa.com/luxe/fragrance/c/15870",
+  "total": 529,
+  "leaf": true
+ },
+ {
+  "id": "9566",
+  "label": "Face Wash",
+  "url": "https://www.nykaa.com/natural/skin/face-wash/c/9566",
+  "total": 520,
+  "leaf": true
+ },
+ {
+  "id": "18551",
+  "label": "Other Daily Supplements",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/other-supplements/c/18551",
+  "total": 518,
+  "leaf": true
+ },
+ {
+  "id": "37",
+  "label": "Hands & Feet",
+  "url": "https://www.nykaa.com/bath-body/hands-and-feet/c/37",
+  "total": 503,
+  "leaf": true
+ },
+ {
+  "id": "8438",
+  "label": "Gift Sets",
+  "url": "https://www.nykaa.com/skin/kits-combos/gift-sets/c/8438",
+  "total": 502,
+  "leaf": true
+ },
+ {
+  "id": "240",
+  "label": "Eyeliner",
+  "url": "https://www.nykaa.com/makeup/eyes/eyeliner/c/240",
+  "total": 499,
+  "leaf": true
+ },
+ {
+  "id": "361",
+  "label": "Hair Combs",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/hair-combs/c/361",
+  "total": 494,
+  "leaf": true
+ },
+ {
+  "id": "100325",
+  "label": "SHOWER SEAL SCENT",
+  "url": "https://www.nykaa.com/shower-seal-scent/c/100325",
+  "total": 492,
+  "leaf": true
+ },
+ {
+  "id": "11111",
+  "label": "Professional Brands",
+  "url": "https://www.nykaa.com/hair-care/professional-brand/c/11111",
+  "total": 488,
+  "leaf": true
+ },
+ {
+  "id": "1222",
+  "label": "Dandruff",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/dandruff/c/1222",
+  "total": 485,
+  "leaf": true
+ },
+ {
+  "id": "87210",
+  "label": "Luxe Top Bestsellers",
+  "url": "https://www.nykaa.com/luxe-top-bestsellers/c/87210",
+  "total": 485,
+  "leaf": true
+ },
+ {
+  "id": "970",
+  "label": "Body Mist/Spray",
+  "url": "https://www.nykaa.com/fragrance/women/body-mist-spray/c/970",
+  "total": 484,
+  "leaf": true
+ },
+ {
+  "id": "8380",
+  "label": "Cleanser",
+  "url": "https://www.nykaa.com/skin/cleansers/cleanser/c/8380",
+  "total": 480,
+  "leaf": true
+ },
+ {
+  "id": "9601",
+  "label": "Hair Oil",
+  "url": "https://www.nykaa.com/natural/hair/hair-oil/c/9601",
+  "total": 480,
+  "leaf": true
+ },
+ {
+  "id": "18315",
+  "label": "Fresh & Aquatic",
+  "url": "https://www.nykaa.com/fragrance/shop-by-fragrance-family/fresh-aquatic/c/18315",
+  "total": 470,
+  "leaf": true
+ },
+ {
+  "id": "263",
+  "label": "Liquid Lipstick",
+  "url": "https://www.nykaa.com/makeup/lips/liquid-lipstick/c/263",
+  "total": 470,
+  "leaf": true
+ },
+ {
+  "id": "54832",
+  "label": "Vitamin C",
+  "url": "https://www.nykaa.com/vitamin-c/c/54832",
+  "total": 466,
+  "leaf": true
+ },
+ {
+  "id": "250",
+  "label": "Lip Gloss",
+  "url": "https://www.nykaa.com/makeup/lips/lip-gloss/c/250",
+  "total": 458,
+  "leaf": true
+ },
+ {
+  "id": "116041",
+  "label": "Body Oil",
+  "url": "https://www.nykaa.com/bath-body/body-care/body-oil/c/116041",
+  "total": 446,
+  "leaf": true
+ },
+ {
+  "id": "1385",
+  "label": "Hair Styling Tools",
+  "url": "https://www.nykaa.com/personal-care-appliances/hair-styling-tools/c/1385",
+  "total": 444,
+  "leaf": true
+ },
+ {
+  "id": "54831",
+  "label": "Niacinamide",
+  "url": "https://www.nykaa.com/niacinamide/c/54831",
+  "total": 443,
+  "leaf": true
+ },
+ {
+  "id": "93340",
+  "label": "Baby Post Bath Products",
+  "url": "https://www.nykaa.com/baby-post-bath-products/c/93340",
+  "total": 442,
+  "leaf": true
+ },
+ {
+  "id": "2044",
+  "label": "Damaged Hair",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/damaged-hair/c/2044",
+  "total": 442,
+  "leaf": true
+ },
+ {
+  "id": "1654",
+  "label": "Intimate Care",
+  "url": "https://www.nykaa.com/bath-body/feminine-hygiene/intimate-care/c/1654",
+  "total": 430,
+  "leaf": true
+ },
+ {
+  "id": "52753",
+  "label": "Hair Kits",
+  "url": "https://www.nykaa.com/hair-care/hair-kits-combos/hair-kits/c/52753",
+  "total": 427,
+  "leaf": true
+ },
+ {
+  "id": "9585",
+  "label": "Makeup",
+  "url": "https://www.nykaa.com/natural/makeup/c/9585",
+  "total": 421,
+  "leaf": true
+ },
+ {
+  "id": "9632",
+  "label": "Dry & Frizzy Hair",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/dry-frizzy-hair/c/9632",
+  "total": 419,
+  "leaf": true
+ },
+ {
+  "id": "52754",
+  "label": "Luxury Brand",
+  "url": "https://www.nykaa.com/hair-care/luxury-brand/c/52754",
+  "total": 417,
+  "leaf": true
+ },
+ {
+  "id": "72549",
+  "label": "Serums for Wrinkles & Fine Lines",
+  "url": "https://www.nykaa.com/serums-for-wrinkles-fine-lines/c/72549",
+  "total": 408,
+  "leaf": true
+ },
+ {
+  "id": "8401",
+  "label": "Sheet Masks",
+  "url": "https://www.nykaa.com/skin/masks/sheet-masks/c/8401",
+  "total": 400,
+  "leaf": true
+ },
+ {
+  "id": "8395",
+  "label": "Night Cream",
+  "url": "https://www.nykaa.com/skin/moisturizers/night-cream/c/8395",
+  "total": 396,
+  "leaf": true
+ },
+ {
+  "id": "233",
+  "label": "Face Primer",
+  "url": "https://www.nykaa.com/makeup/face/face-primer/c/233",
+  "total": 386,
+  "leaf": true
+ },
+ {
+  "id": "237",
+  "label": "Highlighters",
+  "url": "https://www.nykaa.com/makeup/face/face-illuminator/c/237",
+  "total": 379,
+  "leaf": true
+ },
+ {
+  "id": "72545",
+  "label": "Serums for Brightening & Glow",
+  "url": "https://www.nykaa.com/serums-for-brightening-glow/c/72545",
+  "total": 378,
+  "leaf": true
+ },
+ {
+  "id": "9567",
+  "label": "Cleanser",
+  "url": "https://www.nykaa.com/natural/skin/cleanser/c/9567",
+  "total": 375,
+  "leaf": true
+ },
+ {
+  "id": "54265",
+  "label": "New Launches",
+  "url": "https://www.nykaa.com/top-bath-and-body-for-new-consumers/c/54265",
+  "total": 371,
+  "leaf": true
+ },
+ {
+  "id": "971",
+  "label": "Deodorants/Roll-Ons",
+  "url": "https://www.nykaa.com/bath-body/female-grooming/deodorants-roll-ons/c/971",
+  "total": 370,
+  "leaf": true
+ },
+ {
+  "id": "8402",
+  "label": "Eye Care",
+  "url": "https://www.nykaa.com/skin/eye-care/c/8402",
+  "total": 363,
+  "leaf": true
+ },
+ {
+  "id": "391",
+  "label": "Sanitary Napkin & Period Panties",
+  "url": "https://www.nykaa.com/bath-body/feminine-hygiene/sanitary-napkins/c/391",
+  "total": 362,
+  "leaf": true
+ },
+ {
+  "id": "54830",
+  "label": "Hyaluronic Acid",
+  "url": "https://www.nykaa.com/hyaluronic-acid/c/54830",
+  "total": 358,
+  "leaf": true
+ },
+ {
+  "id": "9608",
+  "label": "Body Lotions",
+  "url": "https://www.nykaa.com/natural/body-care/body-lotions/c/9608",
+  "total": 357,
+  "leaf": true
+ },
+ {
+  "id": "9624",
+  "label": "Tan Removal",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/tan-removal/c/9624",
+  "total": 356,
+  "leaf": true
+ },
+ {
+  "id": "62850",
+  "label": "Hair Masks Best Sellers",
+  "url": "https://www.nykaa.com/hair-masks-best-sellers/c/62850",
+  "total": 355,
+  "leaf": true
+ },
+ {
+  "id": "9631",
+  "label": "Dandruff",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/dandruff/c/9631",
+  "total": 353,
+  "leaf": true
+ },
+ {
+  "id": "687",
+  "label": "Kajal",
+  "url": "https://www.nykaa.com/makeup/eyes/kajal/c/687",
+  "total": 346,
+  "leaf": true
+ },
+ {
+  "id": "18316",
+  "label": "Spicy & Warm",
+  "url": "https://www.nykaa.com/fragrance/shop-by-fragrance-family/spicy-warm/c/18316",
+  "total": 344,
+  "leaf": true
+ },
+ {
+  "id": "9569",
+  "label": "Face Cream",
+  "url": "https://www.nykaa.com/natural/skin/face-cream/c/9569",
+  "total": 342,
+  "leaf": true
+ },
+ {
+  "id": "32962",
+  "label": "Aromatherapy",
+  "url": "https://www.nykaa.com/fragrance/aromatherapy/c/32962",
+  "total": 341,
+  "leaf": true
+ },
+ {
+  "id": "8436",
+  "label": "Facial Kits",
+  "url": "https://www.nykaa.com/skin/kits-combos/facial-kits/c/8436",
+  "total": 337,
+  "leaf": true
+ },
+ {
+  "id": "18319",
+  "label": "Candles",
+  "url": "https://www.nykaa.com/fragrance/aromatherapy/candles/c/18319",
+  "total": 327,
+  "leaf": true
+ },
+ {
+  "id": "1402",
+  "label": "Face/Skin Tools",
+  "url": "https://www.nykaa.com/personal-care-appliances/face-skin-tools/c/1402",
+  "total": 325,
+  "leaf": true
+ },
+ {
+  "id": "255",
+  "label": "Nail Polish",
+  "url": "https://www.nykaa.com/makeup/nails/nail-polish/c/255",
+  "total": 321,
+  "leaf": true
+ },
+ {
+  "id": "234",
+  "label": "Concealer",
+  "url": "https://www.nykaa.com/makeup/face/face-concealer/c/234",
+  "total": 319,
+  "leaf": true
+ },
+ {
+  "id": "9581",
+  "label": "Face Packs",
+  "url": "https://www.nykaa.com/natural/skin/masks-peels/c/9581",
+  "total": 319,
+  "leaf": true
+ },
+ {
+  "id": "25751",
+  "label": "Face Packs",
+  "url": "https://www.nykaa.com/skin/masks/face-packs/c/25751",
+  "total": 319,
+  "leaf": true
+ },
+ {
+  "id": "9574",
+  "label": "Sunscreen",
+  "url": "https://www.nykaa.com/natural/skin/sunscreen/c/9574",
+  "total": 317,
+  "leaf": true
+ },
+ {
+  "id": "9607",
+  "label": "Soaps",
+  "url": "https://www.nykaa.com/natural/body-care/soaps/c/9607",
+  "total": 317,
+  "leaf": true
+ },
+ {
+  "id": "18313",
+  "label": "Earthy & Woody",
+  "url": "https://www.nykaa.com/fragrance/shop-by-fragrance-family/earthy-woody/c/18313",
+  "total": 313,
+  "leaf": true
+ },
+ {
+  "id": "8381",
+  "label": "Scrubs & Exfoliators",
+  "url": "https://www.nykaa.com/skin/cleansers/scrubs-exfoliators/c/8381",
+  "total": 309,
+  "leaf": true
+ },
+ {
+  "id": "24471",
+  "label": "Formulation - Powders",
+  "url": "https://www.nykaa.com/formulation-powders/c/24471",
+  "total": 306,
+  "leaf": true
+ },
+ {
+  "id": "18521",
+  "label": "Fruity",
+  "url": "https://www.nykaa.com/fragrance/shop-by-fragrance-family/fruity/c/18521",
+  "total": 304,
+  "leaf": true
+ },
+ {
+  "id": "256",
+  "label": "Nail Art Kits",
+  "url": "https://www.nykaa.com/makeup/nails/nail-art-kits/c/256",
+  "total": 303,
+  "leaf": true
+ },
+ {
+  "id": "241",
+  "label": "Mascara",
+  "url": "https://www.nykaa.com/makeup/eyes/eye-mascara/c/241",
+  "total": 302,
+  "leaf": true
+ },
+ {
+  "id": "688",
+  "label": "Manicure Pedicure Kits",
+  "url": "https://www.nykaa.com/bath-body/tools-accessories/manicure-pedicure-tools-kits/c/688",
+  "total": 299,
+  "leaf": true
+ },
+ {
+  "id": "72551",
+  "label": "Serums for Dark Spots Treatment",
+  "url": "https://www.nykaa.com/serums-for-dark-spots-treatment/c/72551",
+  "total": 297,
+  "leaf": true
+ },
+ {
+  "id": "4037",
+  "label": "Makeup Pouches",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/makeup-pouches/c/4037",
+  "total": 294,
+  "leaf": true
+ },
+ {
+  "id": "9618",
+  "label": "Candles",
+  "url": "https://www.nykaa.com/natural/aromatherapy/candles/c/9618",
+  "total": 292,
+  "leaf": true
+ },
+ {
+  "id": "52743",
+  "label": "Dermocosmetic Brands",
+  "url": "https://www.nykaa.com/skin/dermocosmetic-brands/c/52743",
+  "total": 291,
+  "leaf": true
+ },
+ {
+  "id": "9573",
+  "label": "Face Oils",
+  "url": "https://www.nykaa.com/natural/skin/face-oils/c/9573",
+  "total": 291,
+  "leaf": true
+ },
+ {
+  "id": "6289",
+  "label": "Massage Tools",
+  "url": "https://www.nykaa.com/personal-care-appliances/massage-tools/c/6289",
+  "total": 287,
+  "leaf": true
+ },
+ {
+  "id": "9600",
+  "label": "Hair Masks",
+  "url": "https://www.nykaa.com/natural/hair/hair-masks/c/9600",
+  "total": 284,
+  "leaf": true
+ },
+ {
+  "id": "3967",
+  "label": "Gifts",
+  "url": "https://www.nykaa.com/luxe/fragrance/gifts/c/3967",
+  "total": 283,
+  "leaf": true
+ },
+ {
+  "id": "93341",
+  "label": "Baby Bath Time Bestsellers",
+  "url": "https://www.nykaa.com/baby-bath-time-bestsellers/c/93341",
+  "total": 279,
+  "leaf": true
+ },
+ {
+  "id": "661",
+  "label": "Oral Care",
+  "url": "https://www.nykaa.com/bath-body/oral-care/c/661",
+  "total": 277,
+  "leaf": true
+ },
+ {
+  "id": "8403",
+  "label": "Under Eye Cream & Serums",
+  "url": "https://www.nykaa.com/skin/eye-care/under-eye-cream-serums/c/8403",
+  "total": 274,
+  "leaf": true
+ },
+ {
+  "id": "9572",
+  "label": "Toner",
+  "url": "https://www.nykaa.com/natural/skin/toner/c/9572",
+  "total": 266,
+  "leaf": true
+ },
+ {
+  "id": "266",
+  "label": "Brush Sets",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/brush-sets/c/266",
+  "total": 265,
+  "leaf": true
+ },
+ {
+  "id": "1655",
+  "label": "Intimate Wellness",
+  "url": "https://www.nykaa.com/wellness/sexual-wellness/c/1655",
+  "total": 264,
+  "leaf": true
+ },
+ {
+  "id": "247",
+  "label": "False Eyelashes",
+  "url": "https://www.nykaa.com/makeup/eyes/false-eyelashes/c/247",
+  "total": 264,
+  "leaf": true
+ },
+ {
+  "id": "25747",
+  "label": "All Purpose Gels/Creams",
+  "url": "https://www.nykaa.com/skin/moisturizers/all-purpose-gels-creams/c/25747",
+  "total": 262,
+  "leaf": true
+ },
+ {
+  "id": "231",
+  "label": "Compact",
+  "url": "https://www.nykaa.com/makeup/face/compact/c/231",
+  "total": 262,
+  "leaf": true
+ },
+ {
+  "id": "9617",
+  "label": "Essential Oils",
+  "url": "https://www.nykaa.com/natural/aromatherapy/essential-oils/c/9617",
+  "total": 262,
+  "leaf": true
+ },
+ {
+  "id": "979",
+  "label": "Deodorants/Roll-ons",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/deodorants-roll-ons/c/979",
+  "total": 261,
+  "leaf": true
+ },
+ {
+  "id": "19786",
+  "label": "Hair New Launches",
+  "url": "https://www.nykaa.com/hair-new-launches/c/19786",
+  "total": 260,
+  "leaf": true
+ },
+ {
+  "id": "9576",
+  "label": "Day Cream",
+  "url": "https://www.nykaa.com/natural/skin/day-cream/c/9576",
+  "total": 259,
+  "leaf": true
+ },
+ {
+  "id": "369",
+  "label": "Body Scrubs & Exfoliants",
+  "url": "https://www.nykaa.com/bath-body/bath-and-shower/body-scrubs-exfoliants/c/369",
+  "total": 259,
+  "leaf": true
+ },
+ {
+  "id": "18541",
+  "label": "Multivitamins",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/multivitamins/c/18541",
+  "total": 259,
+  "leaf": true
+ },
+ {
+  "id": "245",
+  "label": "Eye Brow Enhancers",
+  "url": "https://www.nykaa.com/makeup/eyes/eye-brow-enhancer/c/245",
+  "total": 258,
+  "leaf": true
+ },
+ {
+  "id": "9599",
+  "label": "Conditioner",
+  "url": "https://www.nykaa.com/natural/hair/conditioner/c/9599",
+  "total": 252,
+  "leaf": true
+ },
+ {
+  "id": "79607",
+  "label": "Top Skincare Picks for Dark Under Eye Circles",
+  "url": "https://www.nykaa.com/top-skincare-picks-for-dark-under-eye-circles/c/79607",
+  "total": 250,
+  "leaf": true
+ },
+ {
+  "id": "54828",
+  "label": "Salicylic Acid",
+  "url": "https://www.nykaa.com/salicylic-acid/c/54828",
+  "total": 249,
+  "leaf": true
+ },
+ {
+  "id": "97002",
+  "label": "Niche Fragrances",
+  "url": "https://www.nykaa.com/niche-fragrances/c/97002",
+  "total": 246,
+  "leaf": true
+ },
+ {
+  "id": "2043",
+  "label": "Hair Color",
+  "url": "https://www.nykaa.com/hair-care/hair-styling/hair-color/c/2043",
+  "total": 245,
+  "leaf": true
+ },
+ {
+  "id": "24473",
+  "label": "Formulation - Tablets",
+  "url": "https://www.nykaa.com/formulation-tablets/c/24473",
+  "total": 239,
+  "leaf": true
+ },
+ {
+  "id": "332",
+  "label": "Hair Spray",
+  "url": "https://www.nykaa.com/hair-care/hair-styling/hair-spray/c/332",
+  "total": 237,
+  "leaf": true
+ },
+ {
+  "id": "91971",
+  "label": "Massage Oils",
+  "url": "https://www.nykaa.com/wellness/mind-mood/massage-oils/c/91971",
+  "total": 236,
+  "leaf": true
+ },
+ {
+  "id": "55027",
+  "label": "Body Mist/Spray",
+  "url": "https://www.nykaa.com/bath-body/female-grooming/body-mist-spray/c/55027",
+  "total": 235,
+  "leaf": true
+ },
+ {
+  "id": "396",
+  "label": "Loofahs",
+  "url": "https://www.nykaa.com/bath-body/tools-accessories/loofahs/c/396",
+  "total": 233,
+  "leaf": true
+ },
+ {
+  "id": "9571",
+  "label": "Facial Kits",
+  "url": "https://www.nykaa.com/natural/skin/facial-kits/c/9571",
+  "total": 233,
+  "leaf": true
+ },
+ {
+  "id": "382",
+  "label": "Foot Care",
+  "url": "https://www.nykaa.com/bath-body/hands-and-feet/foot-care/c/382",
+  "total": 232,
+  "leaf": true
+ },
+ {
+  "id": "9606",
+  "label": "Shower Gels and Body Wash",
+  "url": "https://www.nykaa.com/natural/body-care/shower-gels-and-body-wash/c/9606",
+  "total": 228,
+  "leaf": true
+ },
+ {
+  "id": "18311",
+  "label": "Giftsets & Combos",
+  "url": "https://www.nykaa.com/fragrance/giftsets-combos/c/18311",
+  "total": 227,
+  "leaf": true
+ },
+ {
+  "id": "2045",
+  "label": "Color Protection",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/color-protection/c/2045",
+  "total": 224,
+  "leaf": true
+ },
+ {
+  "id": "2746",
+  "label": "Split Ends",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/split-ends/c/2746",
+  "total": 224,
+  "leaf": true
+ },
+ {
+  "id": "253",
+  "label": "Lip Tint",
+  "url": "https://www.nykaa.com/makeup/lips/lip-stain/c/253",
+  "total": 223,
+  "leaf": true
+ },
+ {
+  "id": "22656",
+  "label": "Bath Accessories",
+  "url": "https://www.nykaa.com/bath-body/tools-accessories/bath-accessories/c/22656",
+  "total": 222,
+  "leaf": true
+ },
+ {
+  "id": "239",
+  "label": "Makeup Remover",
+  "url": "https://www.nykaa.com/makeup/face/face-makeup-remover/c/239",
+  "total": 219,
+  "leaf": true
+ },
+ {
+  "id": "6761",
+  "label": "Setting Spray",
+  "url": "https://www.nykaa.com/makeup/face/setting-spray/c/6761",
+  "total": 214,
+  "leaf": true
+ },
+ {
+  "id": "8396",
+  "label": "Face Oils",
+  "url": "https://www.nykaa.com/skin/moisturizers/face-oils/c/8396",
+  "total": 211,
+  "leaf": true
+ },
+ {
+  "id": "187",
+  "label": "New Launches",
+  "url": "https://www.nykaa.com/fragrance/new-launches/c/187",
+  "total": 211,
+  "leaf": true
+ },
+ {
+  "id": "2674",
+  "label": "Wanderlust",
+  "url": "https://www.nykaa.com/nykaa-wanderlust-collection/c/2674",
+  "total": 202,
+  "leaf": true
+ },
+ {
+  "id": "9582",
+  "label": "Scrubs & Exfoliators",
+  "url": "https://www.nykaa.com/natural/skin/scrubs-exfoliators/c/9582",
+  "total": 201,
+  "leaf": true
+ },
+ {
+  "id": "2440",
+  "label": "Contact Lenses",
+  "url": "https://www.nykaa.com/makeup/eyes/contact-lenses/c/2440",
+  "total": 199,
+  "leaf": true
+ },
+ {
+  "id": "8430",
+  "label": "Body Sunscreen",
+  "url": "https://www.nykaa.com/skin/sun-care/body-sunscreen/c/8430",
+  "total": 198,
+  "leaf": true
+ },
+ {
+  "id": "1597",
+  "label": "Multivitamins",
+  "url": "https://www.nykaa.com/wellness/grocery/health-supplements/multivitamins/c/1597",
+  "total": 197,
+  "leaf": true
+ },
+ {
+  "id": "113360",
+  "label": "Health Supplements For Moms",
+  "url": "https://www.nykaa.com/health-supplements-for-moms/c/113360",
+  "total": 195,
+  "leaf": true
+ },
+ {
+  "id": "46939",
+  "label": "Travel Friendly Minis",
+  "url": "https://www.nykaa.com/travel-friendly-minis/c/46939",
+  "total": 194,
+  "leaf": true
+ },
+ {
+  "id": "72550",
+  "label": "Serums for Pore Minimizing",
+  "url": "https://www.nykaa.com/serums-for-pore-minimizing/c/72550",
+  "total": 190,
+  "leaf": true
+ },
+ {
+  "id": "52748",
+  "label": "Curl Enhancing",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/curl-enhancing/c/52748",
+  "total": 190,
+  "leaf": true
+ },
+ {
+  "id": "9602",
+  "label": "Hair Serum",
+  "url": "https://www.nykaa.com/natural/hair/hair-serum/c/9602",
+  "total": 187,
+  "leaf": true
+ },
+ {
+  "id": "229",
+  "label": "Loose Powder",
+  "url": "https://www.nykaa.com/makeup/face/loose-powder/c/229",
+  "total": 186,
+  "leaf": true
+ },
+ {
+  "id": "9615",
+  "label": "Massage Oils",
+  "url": "https://www.nykaa.com/natural/aromatherapy/massage-oils/c/9615",
+  "total": 184,
+  "leaf": true
+ },
+ {
+  "id": "25323",
+  "label": "Wax & Wax Strips",
+  "url": "https://www.nykaa.com/bath-body/shaving-hair-removal/wax-wax-strips/c/25323",
+  "total": 183,
+  "leaf": true
+ },
+ {
+  "id": "72547",
+  "label": "Serums for Hydration",
+  "url": "https://www.nykaa.com/serums-for-hydration/c/72547",
+  "total": 182,
+  "leaf": true
+ },
+ {
+  "id": "381",
+  "label": "Hand Creams & Masks",
+  "url": "https://www.nykaa.com/bath-body/hands-and-feet/hand-creams-masks/c/381",
+  "total": 175,
+  "leaf": true
+ },
+ {
+  "id": "251",
+  "label": "Lip Liner",
+  "url": "https://www.nykaa.com/makeup/lips/lip-liner/c/251",
+  "total": 169,
+  "leaf": true
+ },
+ {
+  "id": "591",
+  "label": "Fragrance Combos",
+  "url": "https://www.nykaa.com/fragrance/fragrance-kits-combos/combos-at-nykaa/c/591",
+  "total": 168,
+  "leaf": true
+ },
+ {
+  "id": "31386",
+  "label": "Pro Hair Styling",
+  "url": "https://www.nykaa.com/personal-care-appliances/pro-hair-styling/c/31386",
+  "total": 167,
+  "leaf": true
+ },
+ {
+  "id": "72538",
+  "label": "Serums with Vitamin C",
+  "url": "https://www.nykaa.com/serums-with-vitamin-c/c/72538",
+  "total": 165,
+  "leaf": true
+ },
+ {
+  "id": "18547",
+  "label": "Collagen",
+  "url": "https://www.nykaa.com/wellness/beauty-boosters/collagen/c/18547",
+  "total": 163,
+  "leaf": true
+ },
+ {
+  "id": "25100",
+  "label": "Best Facewashes For Oily Skin",
+  "url": "https://www.nykaa.com/best-facewashes-for-oily-skin/c/25100",
+  "total": 158,
+  "leaf": true
+ },
+ {
+  "id": "331",
+  "label": "Gels & Waxes",
+  "url": "https://www.nykaa.com/hair-care/hair-styling/gels-waxes/c/331",
+  "total": 157,
+  "leaf": true
+ },
+ {
+  "id": "25593",
+  "label": "Multi-Functional Makeup Palettes",
+  "url": "https://www.nykaa.com/makeup/multi-functional-makeup-palettes/c/25593",
+  "total": 156,
+  "leaf": true
+ },
+ {
+  "id": "9591",
+  "label": "Lip Balm & Gloss",
+  "url": "https://www.nykaa.com/natural/makeup/lip-balm-gloss/c/9591",
+  "total": 156,
+  "leaf": true
+ },
+ {
+  "id": "1618",
+  "label": "Gut Health",
+  "url": "https://www.nykaa.com/wellness/shop-by-concern/digestion-gut-health/c/1618",
+  "total": 155,
+  "leaf": true
+ },
+ {
+  "id": "91969",
+  "label": "Mind & Mood",
+  "url": "https://www.nykaa.com/wellness/mind-mood/c/91969",
+  "total": 154,
+  "leaf": true
+ },
+ {
+  "id": "14799",
+  "label": "Body Wash & Soaps",
+  "url": "https://www.nykaa.com/mom-baby/skin-body-hair-care/body-wash-soaps/c/14799",
+  "total": 153,
+  "leaf": true
+ },
+ {
+  "id": "1658",
+  "label": "Sexual Enhancers",
+  "url": "https://www.nykaa.com/wellness/sexual-wellness/sexual-enhancers/c/1658",
+  "total": 153,
+  "leaf": true
+ },
+ {
+  "id": "8383",
+  "label": "Makeup Remover",
+  "url": "https://www.nykaa.com/skin/cleansers/makeup-remover/c/8383",
+  "total": 152,
+  "leaf": true
+ },
+ {
+  "id": "9611",
+  "label": "Hands and Feet Care",
+  "url": "https://www.nykaa.com/natural/body-care/hands-and-feet-care/c/9611",
+  "total": 152,
+  "leaf": true
+ },
+ {
+  "id": "9570",
+  "label": "Face Mist",
+  "url": "https://www.nykaa.com/natural/skin/face-mist/c/9570",
+  "total": 151,
+  "leaf": true
+ },
+ {
+  "id": "7010",
+  "label": "Others",
+  "url": "https://www.nykaa.com/bath-body/tools-accessories/others/c/7010",
+  "total": 150,
+  "leaf": true
+ },
+ {
+  "id": "9621",
+  "label": "Baby Care",
+  "url": "https://www.nykaa.com/natural/baby-care/c/9621",
+  "total": 148,
+  "leaf": true
+ },
+ {
+  "id": "52750",
+  "label": "Length & Shine",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/length-shine/c/52750",
+  "total": 148,
+  "leaf": true
+ },
+ {
+  "id": "94919",
+  "label": "In Vivo Tested Sunscreens",
+  "url": "https://www.nykaa.com/in-vivo-tested-sunscreens/c/94919",
+  "total": 147,
+  "leaf": true
+ },
+ {
+  "id": "25321",
+  "label": "Body Razors & Cartridges",
+  "url": "https://www.nykaa.com/bath-body/female-grooming/body-razors-cartridges/c/25321",
+  "total": 144,
+  "leaf": true
+ },
+ {
+  "id": "14810",
+  "label": "Nursing & Feeding",
+  "url": "https://www.nykaa.com/mom-baby/nursing-feeding/c/14810",
+  "total": 143,
+  "leaf": true
+ },
+ {
+  "id": "9575",
+  "label": "Night Cream",
+  "url": "https://www.nykaa.com/natural/skin/night-cream/c/9575",
+  "total": 140,
+  "leaf": true
+ },
+ {
+  "id": "87223",
+  "label": "Baby Accessories",
+  "url": "https://www.nykaa.com/mom-baby/baby-accessories/c/87223",
+  "total": 140,
+  "leaf": true
+ },
+ {
+  "id": "1639",
+  "label": "Hygiene Essentials",
+  "url": "https://www.nykaa.com/bath-body/hygiene-essentials/c/1639",
+  "total": 137,
+  "leaf": true
+ },
+ {
+  "id": "3277",
+  "label": "Manicure & Pedicure Kits",
+  "url": "https://www.nykaa.com/makeup/nails/manicure-pedicure-kits/c/3277",
+  "total": 137,
+  "leaf": true
+ },
+ {
+  "id": "86472",
+  "label": "Fragrance Mini",
+  "url": "https://www.nykaa.com/fragrance-mini/c/86472",
+  "total": 131,
+  "leaf": true
+ },
+ {
+  "id": "18564",
+  "label": "Herbal Teas",
+  "url": "https://www.nykaa.com/wellness/mind-mood/herbal-teas/c/18564",
+  "total": 130,
+  "leaf": true
+ },
+ {
+  "id": "53974",
+  "label": "Most Love Eyeshadow Palette",
+  "url": "https://www.nykaa.com/most-love-eyeshadow-palette/c/53974",
+  "total": 123,
+  "leaf": true
+ },
+ {
+  "id": "18550",
+  "label": "Glutathione",
+  "url": "https://www.nykaa.com/wellness/beauty-boosters/glutathione/c/18550",
+  "total": 122,
+  "leaf": true
+ },
+ {
+  "id": "1403",
+  "label": "Shaving Tools",
+  "url": "https://www.nykaa.com/personal-care-appliances/shaving-tools/c/1403",
+  "total": 121,
+  "leaf": true
+ },
+ {
+  "id": "362",
+  "label": "Dryers & Stylers",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/hair-dryers/c/362",
+  "total": 119,
+  "leaf": true
+ },
+ {
+  "id": "97265",
+  "label": "Maternity Pads ",
+  "url": "https://www.nykaa.com/maternity-pads/c/97265",
+  "total": 118,
+  "leaf": true
+ },
+ {
+  "id": "244",
+  "label": "Under Eye Concealer",
+  "url": "https://www.nykaa.com/makeup/eyes/under-eye-concealer/c/244",
+  "total": 116,
+  "leaf": true
+ },
+ {
+  "id": "72539",
+  "label": "Serums with Niacinamide",
+  "url": "https://www.nykaa.com/serums-with-niacinamide/c/72539",
+  "total": 115,
+  "leaf": true
+ },
+ {
+  "id": "6557",
+  "label": "Dove Dull & Dry Skin Cleansing",
+  "url": "https://www.nykaa.com/women/c/6557",
+  "total": 113,
+  "leaf": true
+ },
+ {
+  "id": "97252",
+  "label": "Gifts for your Little One",
+  "url": "https://www.nykaa.com/gifts-for-your-little-one/c/97252",
+  "total": 112,
+  "leaf": true
+ },
+ {
+  "id": "25322",
+  "label": "Face & Eyebrow Razors",
+  "url": "https://www.nykaa.com/bath-body/female-grooming/face-eyebrow-razors/c/25322",
+  "total": 109,
+  "leaf": true
+ },
+ {
+  "id": "25318",
+  "label": "Body Butters",
+  "url": "https://www.nykaa.com/bath-body/body-care/body-butters/c/25318",
+  "total": 109,
+  "leaf": true
+ },
+ {
+  "id": "584",
+  "label": "Hand Wash",
+  "url": "https://www.nykaa.com/bath-body/hands-and-feet/hand-wash/c/584",
+  "total": 109,
+  "leaf": true
+ },
+ {
+  "id": "9616",
+  "label": "Carrier Oils",
+  "url": "https://www.nykaa.com/natural/aromatherapy/carrier-oils/c/9616",
+  "total": 109,
+  "leaf": true
+ },
+ {
+  "id": "9629",
+  "label": "Dark Circles",
+  "url": "https://www.nykaa.com/natural/shop-by-concern/dark-circles/c/9629",
+  "total": 109,
+  "leaf": true
+ },
+ {
+  "id": "22630",
+  "label": "Hair Supplements",
+  "url": "https://www.nykaa.com/hair-care/hair/nutritional-supplements/c/22630",
+  "total": 105,
+  "leaf": true
+ },
+ {
+  "id": "2049",
+  "label": "Hair Extensions",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/hair-extensions/c/2049",
+  "total": 104,
+  "leaf": true
+ },
+ {
+  "id": "4140",
+  "label": "Contour",
+  "url": "https://www.nykaa.com/makeup/face/contour/c/4140",
+  "total": 104,
+  "leaf": true
+ },
+ {
+  "id": "72540",
+  "label": "Serums with Hyaluronic Acid",
+  "url": "https://www.nykaa.com/serums-with-hyaluronic-acid/c/72540",
+  "total": 104,
+  "leaf": true
+ },
+ {
+  "id": "1235",
+  "label": "Body Mist/Spray",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/body-mist-spray/c/1235",
+  "total": 102,
+  "leaf": true
+ },
+ {
+  "id": "8382",
+  "label": "Face Wipes",
+  "url": "https://www.nykaa.com/skin/cleansers/face-wipes/c/8382",
+  "total": 100,
+  "leaf": true
+ },
+ {
+  "id": "232",
+  "label": "BB & CC Cream",
+  "url": "https://www.nykaa.com/makeup/face/bb-cc-cream/c/232",
+  "total": 99,
+  "leaf": true
+ },
+ {
+  "id": "8398",
+  "label": "BB & CC Cream",
+  "url": "https://www.nykaa.com/skin/moisturizers/bb-cc-creams/c/8398",
+  "total": 99,
+  "leaf": true
+ },
+ {
+  "id": "9603",
+  "label": "Hair Color",
+  "url": "https://www.nykaa.com/natural/hair/hair-color/c/9603",
+  "total": 99,
+  "leaf": true
+ },
+ {
+  "id": "25980",
+  "label": "Leave-in Conditioner",
+  "url": "https://www.nykaa.com/hair-care/hair/leave-in-conditioner/c/25980",
+  "total": 97,
+  "leaf": true
+ },
+ {
+  "id": "91561",
+  "label": "Dermocosmetic Moisturizers",
+  "url": "https://www.nykaa.com/dermocosmetic-serums/c/91561",
+  "total": 95,
+  "leaf": true
+ },
+ {
+  "id": "29946",
+  "label": "Intimacy",
+  "url": "https://www.nykaa.com/wellness/sexual-wellness/intimacy/c/29946",
+  "total": 94,
+  "leaf": true
+ },
+ {
+  "id": "25324",
+  "label": "Hair Removal Creams",
+  "url": "https://www.nykaa.com/bath-body/female-grooming/hair-removal-creams/c/25324",
+  "total": 91,
+  "leaf": true
+ },
+ {
+  "id": "52749",
+  "label": "Volume",
+  "url": "https://www.nykaa.com/hair-care/shop-by-concern/volume/c/52749",
+  "total": 90,
+  "leaf": true
+ },
+ {
+  "id": "91559",
+  "label": "Face Wash",
+  "url": "https://www.nykaa.com/face-wash/c/91559",
+  "total": 89,
+  "leaf": true
+ },
+ {
+  "id": "25745",
+  "label": "Cleansing Oils & Balm",
+  "url": "https://www.nykaa.com/skin/cleansers/cleansing-oils-balm/c/25745",
+  "total": 88,
+  "leaf": true
+ },
+ {
+  "id": "1133",
+  "label": "Toothpaste",
+  "url": "https://www.nykaa.com/bath-body/oral-care/toothpaste/c/1133",
+  "total": 88,
+  "leaf": true
+ },
+ {
+  "id": "259",
+  "label": "Nail Care",
+  "url": "https://www.nykaa.com/makeup/nails/nail-care/c/259",
+  "total": 87,
+  "leaf": true
+ },
+ {
+  "id": "1647",
+  "label": "Cotton Buds & Balls",
+  "url": "https://www.nykaa.com/bath-body/feminine-hygiene/cotton-buds-balls/c/1647",
+  "total": 87,
+  "leaf": true
+ },
+ {
+  "id": "9609",
+  "label": "Body Scrubs",
+  "url": "https://www.nykaa.com/natural/body-care/body-scrubs/c/9609",
+  "total": 87,
+  "leaf": true
+ },
+ {
+  "id": "5079",
+  "label": "Lip Crayon",
+  "url": "https://www.nykaa.com/makeup/lips/lip-crayon/c/5079",
+  "total": 86,
+  "leaf": true
+ },
+ {
+  "id": "1384",
+  "label": "Hair Removal Tools",
+  "url": "https://www.nykaa.com/personal-care-appliances/hair-removal-tools/c/1384",
+  "total": 85,
+  "leaf": true
+ },
+ {
+  "id": "7007",
+  "label": "Hair Styling Scissors",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/scissors/c/7007",
+  "total": 85,
+  "leaf": true
+ },
+ {
+  "id": "363",
+  "label": "Rollers & Curlers",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/rollers-curlers/c/363",
+  "total": 85,
+  "leaf": true
+ },
+ {
+  "id": "18543",
+  "label": "Immunity Boosters & Vitamin C",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/immunity-boosters-vitamin-c/c/18543",
+  "total": 83,
+  "leaf": true
+ },
+ {
+  "id": "91967",
+  "label": "Prebiotics & Probiotics",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/prebiotics-probiotics/c/91967",
+  "total": 83,
+  "leaf": true
+ },
+ {
+  "id": "8406",
+  "label": "Eye Masks",
+  "url": "https://www.nykaa.com/skin/eye-care/eye-masks/c/8406",
+  "total": 80,
+  "leaf": true
+ },
+ {
+  "id": "91745",
+  "label": "Oily Skin ",
+  "url": "https://www.nykaa.com/dermocosmetic-serums/c/91745",
+  "total": 80,
+  "leaf": true
+ },
+ {
+  "id": "54827",
+  "label": "Glycolic Acid",
+  "url": "https://www.nykaa.com/glycolic-acid/c/54827",
+  "total": 80,
+  "leaf": true
+ },
+ {
+  "id": "6191",
+  "label": "Best Face Wash For Oily Skin Online Sale",
+  "url": "https://www.nykaa.com/skin-type-collection/best-face-wash-for-oily-skin-online-sale/c/6191",
+  "total": 79,
+  "leaf": true
+ },
+ {
+  "id": "1608",
+  "label": "Hair, Skin & Nails",
+  "url": "https://www.nykaa.com/wellness/shop-by-concern/hair-skin-nails/c/1608",
+  "total": 79,
+  "leaf": true
+ },
+ {
+  "id": "9619",
+  "label": "Diffuser",
+  "url": "https://www.nykaa.com/natural/aromatherapy/diffuser/c/9619",
+  "total": 79,
+  "leaf": true
+ },
+ {
+  "id": "1656",
+  "label": "Contraceptives",
+  "url": "https://www.nykaa.com/wellness/sexual-wellness/contraceptives/c/1656",
+  "total": 79,
+  "leaf": true
+ },
+ {
+  "id": "2020",
+  "label": "Omega 3 & Fish Oil",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/omega-3-fish-oil/c/2020",
+  "total": 77,
+  "leaf": true
+ },
+ {
+  "id": "19857",
+  "label": "Calm & Sleep",
+  "url": "https://www.nykaa.com/wellness/shop-by-concern/calm-sleep/c/19857",
+  "total": 76,
+  "leaf": true
+ },
+ {
+  "id": "252",
+  "label": "Lip Plumper",
+  "url": "https://www.nykaa.com/makeup/lips/lip-plumper/c/252",
+  "total": 76,
+  "leaf": true
+ },
+ {
+  "id": "18544",
+  "label": "Calcium & Vitamin D",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/calcium-vitamin-d/c/18544",
+  "total": 74,
+  "leaf": true
+ },
+ {
+  "id": "270",
+  "label": "Lip Brush",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/lip-brush/c/270",
+  "total": 73,
+  "leaf": true
+ },
+ {
+  "id": "260",
+  "label": "Nail Polish Remover",
+  "url": "https://www.nykaa.com/makeup/nails/nail-polish-remover/c/260",
+  "total": 72,
+  "leaf": true
+ },
+ {
+  "id": "72541",
+  "label": "Serums with Retinol",
+  "url": "https://www.nykaa.com/serums-with-retinol/c/72541",
+  "total": 71,
+  "leaf": true
+ },
+ {
+  "id": "22660",
+  "label": "Other Period Essentials",
+  "url": "https://www.nykaa.com/bath-body/feminine-hygiene/other-period-essentials/c/22660",
+  "total": 71,
+  "leaf": true
+ },
+ {
+  "id": "947",
+  "label": "Mirrors",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/mirrors/c/947",
+  "total": 70,
+  "leaf": true
+ },
+ {
+  "id": "364",
+  "label": "Straighteners",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/hair-straightening-irons/c/364",
+  "total": 70,
+  "leaf": true
+ },
+ {
+  "id": "25981",
+  "label": "Hair Mousses & Creams",
+  "url": "https://www.nykaa.com/hair-care/hair-styling/hair-mousses-creams/c/25981",
+  "total": 70,
+  "leaf": true
+ },
+ {
+  "id": "663",
+  "label": "Manual Toothbrush",
+  "url": "https://www.nykaa.com/bath-body/oral-care/manual-toothbrush/c/663",
+  "total": 69,
+  "leaf": true
+ },
+ {
+  "id": "272",
+  "label": "Eyelash Curlers",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/eyelash-curlers/c/272",
+  "total": 68,
+  "leaf": true
+ },
+ {
+  "id": "8411",
+  "label": "Lip Masks",
+  "url": "https://www.nykaa.com/skin/lip-care/lip-masks/c/8411",
+  "total": 67,
+  "leaf": true
+ },
+ {
+  "id": "14824",
+  "label": "Kids Makeup",
+  "url": "https://www.nykaa.com/mom-baby/baby-accessories/kids-makeup/c/14824",
+  "total": 65,
+  "leaf": true
+ },
+ {
+  "id": "9604",
+  "label": "Tools & Accessories",
+  "url": "https://www.nykaa.com/natural/hair/tools-accessories/c/9604",
+  "total": 65,
+  "leaf": true
+ },
+ {
+  "id": "91562",
+  "label": "Dermocosmetic Sunscreens",
+  "url": "https://www.nykaa.com/dermocosmetic-serums/c/91562",
+  "total": 62,
+  "leaf": true
+ },
+ {
+  "id": "374",
+  "label": "Talcum Powder",
+  "url": "https://www.nykaa.com/bath-body/body-care/talcum-powder/c/374",
+  "total": 60,
+  "leaf": true
+ },
+ {
+  "id": "18698",
+  "label": "Shilajit",
+  "url": "https://www.nykaa.com/wellness/ayurveda-herbs/shilajit/c/18698",
+  "total": 59,
+  "leaf": true
+ },
+ {
+  "id": "9592",
+  "label": "Foundation & Concealer",
+  "url": "https://www.nykaa.com/natural/makeup/foundation-concealer/c/9592",
+  "total": 59,
+  "leaf": true
+ },
+ {
+  "id": "91564",
+  "label": "Dermocosmetic Body Care",
+  "url": "https://www.nykaa.com/dermocosmetic-serums/c/91564",
+  "total": 58,
+  "leaf": true
+ },
+ {
+  "id": "18542",
+  "label": "Magnesium & Zinc",
+  "url": "https://www.nykaa.com/wellness/health-supplements/magnesium-zinc/c/18542",
+  "total": 57,
+  "leaf": true
+ },
+ {
+  "id": "87227",
+  "label": "Baby Hygiene",
+  "url": "https://www.nykaa.com/mom-baby/baby-hygiene/c/87227",
+  "total": 57,
+  "leaf": true
+ },
+ {
+  "id": "9475",
+  "label": "Menstrual Cups",
+  "url": "https://www.nykaa.com/bath-body/feminine-hygiene/menstrual-cups/c/9475",
+  "total": 57,
+  "leaf": true
+ },
+ {
+  "id": "9595",
+  "label": "Tools & Brushes",
+  "url": "https://www.nykaa.com/natural/makeup/tools-brushes/c/9595",
+  "total": 56,
+  "leaf": true
+ },
+ {
+  "id": "65427",
+  "label": "Gut Health",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/gut-health/c/65427",
+  "total": 56,
+  "leaf": true
+ },
+ {
+  "id": "60389",
+  "label": " Tinted Sunscreen",
+  "url": "https://www.nykaa.com/tinted-sunscreen/c/60389",
+  "total": 53,
+  "leaf": true
+ },
+ {
+  "id": "1398",
+  "label": "Razors & Cartridges",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/razors-cartridges/c/1398",
+  "total": 52,
+  "leaf": true
+ },
+ {
+  "id": "18318",
+  "label": "Oud Collection",
+  "url": "https://www.nykaa.com/fragrance/shop-by-fragrance-family/oud-collection/c/18318",
+  "total": 50,
+  "leaf": true
+ },
+ {
+  "id": "104127",
+  "label": "Vaseline Global Bestsellers ",
+  "url": "https://www.nykaa.com/vaseline-global-bestsellers/c/104127",
+  "total": 50,
+  "leaf": true
+ },
+ {
+  "id": "25749",
+  "label": "Rose Water",
+  "url": "https://www.nykaa.com/skin/toners-mists/rose-water/c/25749",
+  "total": 50,
+  "leaf": true
+ },
+ {
+  "id": "290",
+  "label": "Floss & Tongue Cleaners",
+  "url": "https://www.nykaa.com/personal-care/dentalcare/floss-and-tongue-cleaners/c/290",
+  "total": 50,
+  "leaf": true
+ },
+ {
+  "id": "2086",
+  "label": "Beard & Moustache Care",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/beard-and-moustache-care/c/2086",
+  "total": 50,
+  "leaf": true
+ },
+ {
+  "id": "25326",
+  "label": "Pre & Post Wax Essentials",
+  "url": "https://www.nykaa.com/bath-body/female-grooming/pre-post-wax-essentials/c/25326",
+  "total": 49,
+  "leaf": true
+ },
+ {
+  "id": "662",
+  "label": "Mouthwash",
+  "url": "https://www.nykaa.com/women/indianwear/kurtis-kurtas-and-tunics/c/662",
+  "total": 48,
+  "leaf": true
+ },
+ {
+  "id": "8410",
+  "label": "Lip Scrubs",
+  "url": "https://www.nykaa.com/skin/lip-care/lip-scrubs/c/8410",
+  "total": 48,
+  "leaf": true
+ },
+ {
+  "id": "91970",
+  "label": "Magnesium",
+  "url": "https://www.nykaa.com/wellness/mind-mood/magnesium/c/91970",
+  "total": 48,
+  "leaf": true
+ },
+ {
+  "id": "72542",
+  "label": "Serums with Salicylic Acid",
+  "url": "https://www.nykaa.com/serums-with-salicylic-acid/c/72542",
+  "total": 46,
+  "leaf": true
+ },
+ {
+  "id": "9586",
+  "label": "Lipstick",
+  "url": "https://www.nykaa.com/natural/makeup/lipstick/c/9586",
+  "total": 46,
+  "leaf": true
+ },
+ {
+  "id": "931",
+  "label": "Eye Makeup Remover",
+  "url": "https://www.nykaa.com/makeup/eyes/eye-makeup-remover/c/931",
+  "total": 45,
+  "leaf": true
+ },
+ {
+  "id": "14838",
+  "label": "Stretch Mark Creams & Oils",
+  "url": "https://www.nykaa.com/mom-baby/for-moms/stretch-mark-creams-oils/c/14838",
+  "total": 45,
+  "leaf": true
+ },
+ {
+  "id": "1400",
+  "label": "Body Groomers",
+  "url": "https://www.nykaa.com/personal-care-appliances/hair-removal-tools/body-groomers/c/1400",
+  "total": 44,
+  "leaf": true
+ },
+ {
+  "id": "9594",
+  "label": "Makeup Remover",
+  "url": "https://www.nykaa.com/natural/makeup/makeup-remover/c/9594",
+  "total": 44,
+  "leaf": true
+ },
+ {
+  "id": "273",
+  "label": "Tweezers",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/tweezers/c/273",
+  "total": 43,
+  "leaf": true
+ },
+ {
+  "id": "338",
+  "label": "Face & Body Mists",
+  "url": "https://www.nykaa.com/luxe/fragrance/face-body-mists/c/338",
+  "total": 42,
+  "leaf": true
+ },
+ {
+  "id": "4802",
+  "label": "Beauty Blenders",
+  "url": "https://www.nykaa.com/makeup-brushes-and-tools/beauty-blenders/c/4802",
+  "total": 41,
+  "leaf": true
+ },
+ {
+  "id": "975",
+  "label": "Colognes",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/colognes/c/975",
+  "total": 41,
+  "leaf": true
+ },
+ {
+  "id": "25325",
+  "label": "Epilators & Bikini Trimmers",
+  "url": "https://www.nykaa.com/bath-body/female-grooming/epilators-bikini-trimmers/c/25325",
+  "total": 40,
+  "leaf": true
+ },
+ {
+  "id": "9087",
+  "label": "Nykaa Skin Secrets Sheet Masks",
+  "url": "https://www.nykaa.com/nykaa-skin-secrets-sheet-masks/c/9087",
+  "total": 40,
+  "leaf": true
+ },
+ {
+  "id": "91560",
+  "label": "Dermocosmetic Serums",
+  "url": "https://www.nykaa.com/dermocosmetic-serums/c/91560",
+  "total": 38,
+  "leaf": true
+ },
+ {
+  "id": "7738",
+  "label": "Himalaya Skin Care",
+  "url": "https://www.nykaa.com/himalaya-skin-care-product-range/c/7738",
+  "total": 38,
+  "leaf": true
+ },
+ {
+  "id": "1401",
+  "label": "Bikini Trimmers",
+  "url": "https://www.nykaa.com/personal-care-appliances/hair-removal-tools/bikini-trimmers/c/1401",
+  "total": 37,
+  "leaf": true
+ },
+ {
+  "id": "370",
+  "label": "Bath Salts",
+  "url": "https://www.nykaa.com/bath-body/bath-and-shower/bath-salts/c/370",
+  "total": 36,
+  "leaf": true
+ },
+ {
+  "id": "2085",
+  "label": "Shavers & Trimmers",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/shavers-trimmers/c/2085",
+  "total": 36,
+  "leaf": true
+ },
+ {
+  "id": "96822",
+  "label": "Kids Supplements",
+  "url": "https://www.nykaa.com/kids-supplements/c/96822",
+  "total": 35,
+  "leaf": true
+ },
+ {
+  "id": "690",
+  "label": "Pantyliners",
+  "url": "https://www.nykaa.com/bath-body/feminine-hygiene/pantyliners/c/690",
+  "total": 35,
+  "leaf": true
+ },
+ {
+  "id": "65424",
+  "label": "Melatonin",
+  "url": "https://www.nykaa.com/wellness/mind-mood/melatonin-sleep-care/c/65424",
+  "total": 34,
+  "leaf": true
+ },
+ {
+  "id": "25750",
+  "label": "Sleeping Masks",
+  "url": "https://www.nykaa.com/skin/masks/sleeping-masks/c/25750",
+  "total": 33,
+  "leaf": true
+ },
+ {
+  "id": "1816",
+  "label": "Tampons",
+  "url": "https://www.nykaa.com/bath-body/feminine-hygiene/tampons/c/1816",
+  "total": 33,
+  "leaf": true
+ },
+ {
+  "id": "13816",
+  "label": "Intimate Care",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/intimate-care/c/13816",
+  "total": 33,
+  "leaf": true
+ },
+ {
+  "id": "1660",
+  "label": "Electric Toothbrush",
+  "url": "https://www.nykaa.com/bath-body/oral-care/electric-toothbrush/c/1660",
+  "total": 32,
+  "leaf": true
+ },
+ {
+  "id": "385",
+  "label": "Hand Sanitizer",
+  "url": "https://www.nykaa.com/bath-body/hygiene-essentials/hand-sanitizer/c/385",
+  "total": 32,
+  "leaf": true
+ },
+ {
+  "id": "9593",
+  "label": "Blush & Highlighter",
+  "url": "https://www.nykaa.com/natural/makeup/blush-highlighter/c/9593",
+  "total": 32,
+  "leaf": true
+ },
+ {
+  "id": "25746",
+  "label": "Micellar Water",
+  "url": "https://www.nykaa.com/skin/cleansers/micellar-water/c/25746",
+  "total": 31,
+  "leaf": true
+ },
+ {
+  "id": "13561",
+  "label": "Face Mask",
+  "url": "https://www.nykaa.com/bath-body/hygiene-essentials/face-mask/c/13561",
+  "total": 31,
+  "leaf": true
+ },
+ {
+  "id": "91563",
+  "label": "Dermocosmetic Hair Care",
+  "url": "https://www.nykaa.com/dermocosmetic-serums/c/91563",
+  "total": 30,
+  "leaf": true
+ },
+ {
+  "id": "9612",
+  "label": "Bath Tools & Accessories",
+  "url": "https://www.nykaa.com/natural/body-care/bath-tools-accessories/c/9612",
+  "total": 30,
+  "leaf": true
+ },
+ {
+  "id": "9587",
+  "label": "Kajal",
+  "url": "https://www.nykaa.com/natural/makeup/kajal/c/9587",
+  "total": 29,
+  "leaf": true
+ },
+ {
+  "id": "25752",
+  "label": "Face Bleach",
+  "url": "https://www.nykaa.com/skin/masks/face-bleach/c/25752",
+  "total": 28,
+  "leaf": true
+ },
+ {
+  "id": "1399",
+  "label": "Epilators",
+  "url": "https://www.nykaa.com/personal-care-appliances/hair-removal-tools/epilators/c/1399",
+  "total": 28,
+  "leaf": true
+ },
+ {
+  "id": "317",
+  "label": "Dry Shampoo",
+  "url": "https://www.nykaa.com/hair-care/hair/dry-shampoo/c/317",
+  "total": 27,
+  "leaf": true
+ },
+ {
+  "id": "1553",
+  "label": "Shaving Cream, Foams & Gels",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/shaving-cream-foams-gels/c/1553",
+  "total": 26,
+  "leaf": true
+ },
+ {
+  "id": "14804",
+  "label": "Sunscreen",
+  "url": "https://www.nykaa.com/mom-baby/skin-body-hair-care/sunscreen/c/14804",
+  "total": 25,
+  "leaf": true
+ },
+ {
+  "id": "2906",
+  "label": "Candles & Incense",
+  "url": "https://www.nykaa.com/luxe/fragrance/candles-incense/c/2906",
+  "total": 24,
+  "leaf": true
+ },
+ {
+  "id": "9613",
+  "label": "Oral Care",
+  "url": "https://www.nykaa.com/natural/body-care/oral-care/c/9613",
+  "total": 24,
+  "leaf": true
+ },
+ {
+  "id": "652",
+  "label": "O.P.I",
+  "url": "https://www.nykaa.com/women/indianwear/lehengas/c/652",
+  "total": 23,
+  "leaf": true
+ },
+ {
+  "id": "29044",
+  "label": "Oral Care",
+  "url": "https://www.nykaa.com/personal-care-appliances/oral-care/c/29044",
+  "total": 23,
+  "leaf": true
+ },
+ {
+  "id": "274",
+  "label": "Sharpeners",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/sharpeners/c/274",
+  "total": 22,
+  "leaf": true
+ },
+ {
+  "id": "25659",
+  "label": "Brush Cleaners",
+  "url": "https://www.nykaa.com/makeup/tools-brushes/brush-cleaners/c/25659",
+  "total": 22,
+  "leaf": true
+ },
+ {
+  "id": "24469",
+  "label": "Formulation - Gummies",
+  "url": "https://www.nykaa.com/formulation-gummies/c/24469",
+  "total": 22,
+  "leaf": true
+ },
+ {
+  "id": "91968",
+  "label": "Liver Detox",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/liver-detox/c/91968",
+  "total": 22,
+  "leaf": true
+ },
+ {
+  "id": "1995",
+  "label": "Eye Primer",
+  "url": "https://www.nykaa.com/makeup/eyes/eye-primer/c/1995",
+  "total": 21,
+  "leaf": true
+ },
+ {
+  "id": "52755",
+  "label": "Hair Styling Appliances",
+  "url": "https://www.nykaa.com/hair-care/hair-styling-appliances/c/52755",
+  "total": 21,
+  "leaf": true
+ },
+ {
+  "id": "79654",
+  "label": "Dr. Aanchal Panth's Recommendations for Very Dry Skin / Eczema",
+  "url": "https://www.nykaa.com/dr-aanchal-panth-s-recommendations-for-very-dry-skin-eczema/c/79654",
+  "total": 21,
+  "leaf": true
+ },
+ {
+  "id": "53321",
+  "label": "Capsule Hair Supplements",
+  "url": "https://www.nykaa.com/capsule-hair-supplements/c/53321",
+  "total": 21,
+  "leaf": true
+ },
+ {
+  "id": "72543",
+  "label": "Serums with Glycolic Acid",
+  "url": "https://www.nykaa.com/serums-with-glycolic-acid/c/72543",
+  "total": 20,
+  "leaf": true
+ },
+ {
+  "id": "1406",
+  "label": "Foot Care",
+  "url": "https://www.nykaa.com/personal-care-appliances/foot-care/c/1406",
+  "total": 19,
+  "leaf": true
+ },
+ {
+  "id": "97251",
+  "label": "Gifts For Mom",
+  "url": "https://www.nykaa.com/gifts-for-mom/c/97251",
+  "total": 19,
+  "leaf": true
+ },
+ {
+  "id": "79650",
+  "label": "Dr. Aparajita Lamba's Recommendation for Acne",
+  "url": "https://www.nykaa.com/dr-aparajita-lamba-s-recommendation-for-acne/c/79650",
+  "total": 19,
+  "leaf": true
+ },
+ {
+  "id": "32963",
+  "label": "Diffuser",
+  "url": "https://www.nykaa.com/fragrance/aromatherapy/diffuser/c/32963",
+  "total": 19,
+  "leaf": true
+ },
+ {
+  "id": "324",
+  "label": "Deodorants",
+  "url": "https://www.nykaa.com/luxe/fragrance/deodorants/c/324",
+  "total": 19,
+  "leaf": true
+ },
+ {
+  "id": "11461",
+  "label": "Grocery",
+  "url": "https://www.nykaa.com/wellness/grocery/c/11461",
+  "total": 18,
+  "leaf": true
+ },
+ {
+  "id": "96567",
+  "label": "Sensitive Skincare for Li'l One ",
+  "url": "https://www.nykaa.com/sensitive-skincare-for-li-l-one/c/96567",
+  "total": 18,
+  "leaf": true
+ },
+ {
+  "id": "1410",
+  "label": "Pre & Post Shaves",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/pre-post-shaves/c/1410",
+  "total": 18,
+  "leaf": true
+ },
+ {
+  "id": "54479",
+  "label": "Best of Strobe Cream",
+  "url": "https://www.nykaa.com/best-of-strobe-cream/c/54479",
+  "total": 17,
+  "leaf": true
+ },
+ {
+  "id": "87229",
+  "label": "Nipple & Breast Care",
+  "url": "https://www.nykaa.com/mom-baby/for-moms/nipple-breast-care/c/87229",
+  "total": 17,
+  "leaf": true
+ },
+ {
+  "id": "96540",
+  "label": "Cetaphil Baby",
+  "url": "https://www.nykaa.com/cetaphil-baby/c/96540",
+  "total": 17,
+  "leaf": true
+ },
+ {
+  "id": "1642",
+  "label": "Air Freshener",
+  "url": "https://www.nykaa.com/bath-body/hygiene-essentials/airfreshener/c/1642",
+  "total": 17,
+  "leaf": true
+ },
+ {
+  "id": "65426",
+  "label": "Eye Care (Lutein)",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/eye-care-lutein/c/65426",
+  "total": 17,
+  "leaf": true
+ },
+ {
+  "id": "79657",
+  "label": "Dr. Nirupama's Recommendations for Sensitive Skin",
+  "url": "https://www.nykaa.com/dr-nirupama-s-recommendations-for-sensitive-skin/c/79657",
+  "total": 16,
+  "leaf": true
+ },
+ {
+  "id": "104834",
+  "label": "Fibre Clinix Range",
+  "url": "https://www.nykaa.com/fibre-clinix-range/c/104834",
+  "total": 15,
+  "leaf": true
+ },
+ {
+  "id": "6905",
+  "label": "Best Clay Masks Online Sale",
+  "url": "https://www.nykaa.com/editor-s-choice/best-clay-masks-online-sale/c/6905",
+  "total": 15,
+  "leaf": true
+ },
+ {
+  "id": "79652",
+  "label": "Dr. Manasi Shirolikar for Open Pores",
+  "url": "https://www.nykaa.com/dr-manasi-shirolikar-for-open-pores/c/79652",
+  "total": 15,
+  "leaf": true
+ },
+ {
+  "id": "79655",
+  "label": "Dr. Aanchal Panth's Recommendations for Pigmentation",
+  "url": "https://www.nykaa.com/dr-aanchal-panth-s-recommendations-for-pigmentation/c/79655",
+  "total": 15,
+  "leaf": true
+ },
+ {
+  "id": "9610",
+  "label": "Bath Salts & Bath Bombs",
+  "url": "https://www.nykaa.com/natural/body-care/bath-salts-bath-bombs/c/9610",
+  "total": 15,
+  "leaf": true
+ },
+ {
+  "id": "18578",
+  "label": "Chyavanprash",
+  "url": "https://www.nykaa.com/wellness/ayurveda-herbs/chyavanprash/c/18578",
+  "total": 14,
+  "leaf": true
+ },
+ {
+  "id": "52747",
+  "label": "Microfibre Towels",
+  "url": "https://www.nykaa.com/hair-care/tools-and-accessories/microfibre-towels/c/52747",
+  "total": 14,
+  "leaf": true
+ },
+ {
+  "id": "4800",
+  "label": "Makeup Brushes And Tools",
+  "url": "https://www.nykaa.com/makeup-brushes-and-tools/c/4800",
+  "total": 13,
+  "leaf": true
+ },
+ {
+  "id": "88432",
+  "label": "Shop All Aveeno Baby Products",
+  "url": "https://www.nykaa.com/shop-all-aveeno-baby-products/c/88432",
+  "total": 13,
+  "leaf": true
+ },
+ {
+  "id": "257",
+  "label": "Nail Polish Sets",
+  "url": "https://www.nykaa.com/makeup/nails/nail-polish-sets/c/257",
+  "total": 12,
+  "leaf": true
+ },
+ {
+  "id": "113260",
+  "label": "Longevity",
+  "url": "https://www.nykaa.com/wellness/daily-nutrition/longevity/c/113260",
+  "total": 12,
+  "leaf": true
+ },
+ {
+  "id": "62813",
+  "label": "Fragrance Other Free Gifts",
+  "url": "https://www.nykaa.com/fragrance/fragrance-other-free-gifts/c/62813",
+  "total": 11,
+  "leaf": true
+ },
+ {
+  "id": "7008",
+  "label": "Lip Primer",
+  "url": "https://www.nykaa.com/makeup/lips/lip-primer/c/7008",
+  "total": 10,
+  "leaf": true
+ },
+ {
+  "id": "17844",
+  "label": "Nykaa Naturals Hair Range",
+  "url": "https://www.nykaa.com/nykaa-naturals-hair-range/c/17844",
+  "total": 10,
+  "leaf": true
+ },
+ {
+  "id": "9589",
+  "label": "Mascara",
+  "url": "https://www.nykaa.com/natural/makeup/mascara/c/9589",
+  "total": 10,
+  "leaf": true
+ },
+ {
+  "id": "86375",
+  "label": "Inde Wild-Lip care",
+  "url": "https://www.nykaa.com/inde-wild-lip-care/c/86375",
+  "total": 9,
+  "leaf": true
+ },
+ {
+  "id": "9590",
+  "label": "Nail Polish",
+  "url": "https://www.nykaa.com/natural/makeup/nail-polish/c/9590",
+  "total": 9,
+  "leaf": true
+ },
+ {
+  "id": "79656",
+  "label": "Dr. Nirupama's Recommendations for Hair Loss",
+  "url": "https://www.nykaa.com/dr-nirupama-s-recommendations-for-hair-loss/c/79656",
+  "total": 8,
+  "leaf": true
+ },
+ {
+  "id": "22668",
+  "label": "Shaving Brushes",
+  "url": "https://www.nykaa.com/bath-body/men-s-grooming/shaving-brushes/c/22668",
+  "total": 8,
+  "leaf": true
+ },
+ {
+  "id": "9588",
+  "label": "Eyeliner",
+  "url": "https://www.nykaa.com/natural/makeup/eyeliner/c/9588",
+  "total": 8,
+  "leaf": true
+ },
+ {
+  "id": "2022",
+  "label": "Coenzyme Q10",
+  "url": "https://www.nykaa.com/wellness/grocery/health-supplements/coenzyme-q10/c/2022",
+  "total": 7,
+  "leaf": true
+ },
+ {
+  "id": "79653",
+  "label": "Dr. Manasi Shirolikar for Dark Circles",
+  "url": "https://www.nykaa.com/dr-manasi-shirolikar-for-dark-circles/c/79653",
+  "total": 7,
+  "leaf": true
+ },
+ {
+  "id": "29093",
+  "label": "Period Panties",
+  "url": "https://www.nykaa.com/bath-body/feminine-hygiene/period-panties/c/29093",
+  "total": 7,
+  "leaf": true
+ },
+ {
+  "id": "18320",
+  "label": "Ultra Luxury",
+  "url": "https://www.nykaa.com/fragrance/ultra-luxury/c/18320",
+  "total": 6,
+  "leaf": true
+ },
+ {
+  "id": "13562",
+  "label": "Gloves, PPE & Face Shields",
+  "url": "https://www.nykaa.com/bath-body/hygiene-essentials/gloves-ppe-face-shields/c/13562",
+  "total": 6,
+  "leaf": true
+ },
+ {
+  "id": "327",
+  "label": "Aftershave",
+  "url": "https://www.nykaa.com/luxe/fragrance/aftershave/c/327",
+  "total": 6,
+  "leaf": true
+ },
+ {
+  "id": "65425",
+  "label": "Brain Boost",
+  "url": "https://www.nykaa.com/wellness/mind-mood/brain-boost/c/65425",
+  "total": 6,
+  "leaf": true
+ },
+ {
+  "id": "4809",
+  "label": "Kabuki Brush",
+  "url": "https://www.nykaa.com/personal-care/c/4809",
+  "total": 3,
+  "leaf": true
+ },
+ {
+  "id": "94947",
+  "label": "Nykaa Cosmetics X Bridgerton Collection",
+  "url": "https://www.nykaa.com/nykaa-cosmetics-x-bridgerton-collection/c/94947",
+  "total": 3,
+  "leaf": true
+ },
+ {
+  "id": "53827",
+  "label": "Liquid Hair Supplements",
+  "url": "https://www.nykaa.com/liquid-hair-supplements/c/53827",
+  "total": 3,
+  "leaf": true
+ },
+ {
+  "id": "62814",
+  "label": "Pocket Perfumes",
+  "url": "https://www.nykaa.com/fragrance/women/pocket-perfumes/c/62814",
+  "total": 2,
+  "leaf": true
+ },
+ {
+  "id": "79651",
+  "label": "Dr. Aparajita Lamba's Recommendation for Dandruff",
+  "url": "https://www.nykaa.com/dr-aparajita-lamba-s-recommendation-for-dandruff/c/79651",
+  "total": 2,
+  "leaf": true
+ },
+ {
+  "id": "32964",
+  "label": "Incense Sticks",
+  "url": "https://www.nykaa.com/fragrance/aromatherapy/incense-sticks/c/32964",
+  "total": 1,
+  "leaf": true
+ },
+ {
+  "id": "91972",
+  "label": "Essential Oils",
+  "url": "https://www.nykaa.com/wellness/mind-mood/essential-oils/c/91972",
+  "total": 1,
+  "leaf": true
+ },
+ {
+  "id": "22895",
+  "label": "palmolive-face-range",
+  "url": "https://www.nykaa.com/palmolive/palmolive-face-range/c/22895",
+  "total": 0,
+  "leaf": true
+ },
+ {
+  "id": "56847",
+  "label": "bath-body-works-best-prices-on-the-internet",
+  "url": "https://www.nykaa.com/bath-body-works-best-prices-on-the-internet/c/56847",
+  "total": 0,
+  "leaf": true
+ },
+ {
+  "id": "26658",
+  "label": "gentlemen-s-crew",
+  "url": "https://www.nykaa.com/brand/gentlemen-s-crew/c/26658",
+  "total": 0,
+  "leaf": true
+ },
+ {
+  "id": "9620",
+  "label": "incense-sticks",
+  "url": "https://www.nykaa.com/natural/aromatherapy/incense-sticks/c/9620",
+  "total": 0,
+  "leaf": true
+ }
+]

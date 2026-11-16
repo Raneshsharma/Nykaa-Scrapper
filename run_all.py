@@ -1,25 +1,38 @@
 """
-Runs the daily collection for every tracked category, then is scheduled
-(GitHub Actions / Task Scheduler / cron) to build daily history.
-
-Add more haircare sub-categories to CATEGORIES as we map their /c/<id> URLs.
-Each entry: ("label", "nykaa category URL")
+Daily driver: scrapes every discovered LEAF category (under Nykaa's pagination
+cap) into dated snapshots. Supports sharding so GitHub Actions can run many
+parallel jobs on different IPs:  SHARD_INDEX / SHARD_COUNT env vars.
 """
+import os, re, json
 from collect_catalog import collect
 
-CATEGORIES = [
-    ("haircare:shampoo", "https://www.nykaa.com/hair-care/hair/shampoo/c/316"),
-    # ("haircare:conditioner", "https://www.nykaa.com/hair-care/.../c/<id>"),
-    # ("haircare:hair-oil",    "https://www.nykaa.com/hair-care/.../c/<id>"),
-    # ("haircare:serum",       "https://www.nykaa.com/hair-care/.../c/<id>"),
-    # ("haircare:hair-mask",   "https://www.nykaa.com/hair-care/.../c/<id>"),
-    # ("haircare:hair-color",  "https://www.nykaa.com/hair-care/.../c/<id>"),
-]
 
-if __name__ == "__main__":
-    for label, url in CATEGORIES:
+def slug_label(url):
+    # /hair-care/hair/shampoo/c/316 -> hair-care:hair:shampoo
+    path = re.search(r'https://www\.nykaa\.com/(.+?)/c/\d+', url)
+    return path.group(1).replace("/", ":") if path else url
+
+
+def main():
+    cats = json.load(open("categories.json", encoding="utf-8"))
+    leaves = [c for c in cats if c.get("leaf") and c.get("total")]
+
+    shard = int(os.environ.get("SHARD_INDEX", "0"))
+    nshard = int(os.environ.get("SHARD_COUNT", "1"))
+    mine = [c for i, c in enumerate(leaves) if i % nshard == shard]
+    print(f"shard {shard}/{nshard}: handling {len(mine)} of {len(leaves)} leaf categories")
+
+    ok = total = 0
+    for c in mine:
+        label = slug_label(c["url"])
         try:
-            n = collect(url, label)
-            print(f"OK {label}: {n} products")
+            n = collect(c["url"], label)
+            ok += 1; total += n
+            print(f"OK   {label}: {n} products")
         except Exception as e:
             print(f"FAIL {label}: {e}")
+    print(f"shard {shard} done: {ok}/{len(mine)} categories, {total} product-rows")
+
+
+if __name__ == "__main__":
+    main()

@@ -55,17 +55,17 @@ def init_schema(conn, flavor):
 
 def upsert_snapshots(conn, flavor, rows):
     cur = conn.cursor()
-    p = _ph(flavor)
-    placeholders = ",".join([p] * 19)
     if flavor == "pg":
-        sql = (f"INSERT INTO snapshots VALUES ({placeholders}) "
+        from psycopg2.extras import execute_values
+        sql = ("INSERT INTO snapshots VALUES %s "
                "ON CONFLICT (snapshot_date, category, product_id) DO UPDATE SET "
                "captured_at=EXCLUDED.captured_at, rank=EXCLUDED.rank, price=EXCLUDED.price, "
                "mrp=EXCLUDED.mrp, discount=EXCLUDED.discount, rating=EXCLUDED.rating, "
                "rating_count=EXCLUDED.rating_count, in_stock=EXCLUDED.in_stock")
+        execute_values(cur, sql, rows, page_size=500)  # fast bulk insert
     else:
-        sql = f"INSERT OR REPLACE INTO snapshots VALUES ({placeholders})"
-    cur.executemany(sql, rows)
+        placeholders = ",".join(["?"] * 19)
+        cur.executemany(f"INSERT OR REPLACE INTO snapshots VALUES ({placeholders})", rows)
     conn.commit()
 
 
