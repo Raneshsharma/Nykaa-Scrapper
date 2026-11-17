@@ -29,3 +29,4 @@ Thumbs.db
 *.env.txt
 *.db
 nykaa_intel.db
+dashboard_config.json
