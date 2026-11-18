@@ -34,7 +34,7 @@ def _extract_state(html):
     return None
 
 
-def fetch_page(session, base_url, page_no, retries=4):
+def fetch_page(session, base_url, page_no, retries=3):
     """Returns (products, total_found, title, ok). ok=False means the fetch was
     blocked/failed after retries (vs ok=True with [] = genuine end of results)."""
     sep = "&" if "?" in base_url else "?"
@@ -52,7 +52,7 @@ def fetch_page(session, base_url, page_no, retries=4):
                 return [], 0, "", True   # non-retryable (e.g. 404) -> treat as end
         except Exception as e:
             logger.info(f"  fetch retry {attempt+1}/{retries} for page {page_no}: {e}")
-        time.sleep(min(2 ** attempt + random.uniform(0, 1.0), 15))
+        time.sleep(min(2 ** attempt + random.uniform(0, 0.5), 5))  # short backoff, cap 5s
     return [], 0, "", False
 
 
