@@ -34,17 +34,26 @@ def _extract_state(html):
     return None
 
 
-def fetch_page(session, base_url, page_no):
+def fetch_page(session, base_url, page_no, retries=4):
+    """Returns (products, total_found, title, ok). ok=False means the fetch was
+    blocked/failed after retries (vs ok=True with [] = genuine end of results)."""
     sep = "&" if "?" in base_url else "?"
     url = f"{base_url}{sep}page_no={page_no}"
-    r = session.get(url, headers={"Accept": "text/html,*/*", "Referer": "https://www.nykaa.com"}, timeout=20)
-    if r.status_code != 200:
-        return [], 0, ""
-    st = _extract_state(r.text)
-    if not st:
-        return [], 0, ""
-    ld = st.get("categoryListing", {}).get("listingData", {})
-    return ld.get("products", []), ld.get("totalFound", 0), ld.get("title", "")
+    for attempt in range(retries):
+        try:
+            r = session.get(url, headers={"Accept": "text/html,*/*", "Referer": "https://www.nykaa.com"}, timeout=25)
+            if r.status_code == 200:
+                st = _extract_state(r.text)
+                if st is not None:
+                    ld = st.get("categoryListing", {}).get("listingData", {})
+                    return ld.get("products", []), ld.get("totalFound", 0), ld.get("title", ""), True
+                # 200 but no state -> soft block, retry
+            elif r.status_code not in (403, 429, 500, 502, 503, 504):
+                return [], 0, "", True   # non-retryable (e.g. 404) -> treat as end
+        except Exception as e:
+            logger.info(f"  fetch retry {attempt+1}/{retries} for page {page_no}: {e}")
+        time.sleep(min(2 ** attempt + random.uniform(0, 1.0), 15))
+    return [], 0, "", False
 
 
 def collect(base_url, category_label, max_pages=None):
@@ -60,7 +69,9 @@ def collect(base_url, category_label, max_pages=None):
 
     rows, seen, rank, page, total = [], set(), 0, 1, None
     while True:
-        prods, total_found, title = fetch_page(s.session, base_url, page)
+        prods, total_found, title, ok = fetch_page(s.session, base_url, page)
+        if not ok and page == 1:
+            raise RuntimeError(f"blocked fetching page 1 for {category_label}")
         if total is None:
             total = total_found
             logger.info(f"[{category_label}] totalFound={total} (title={title!r})")

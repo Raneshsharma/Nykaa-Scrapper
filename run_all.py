@@ -23,6 +23,7 @@ def main():
     print(f"shard {shard}/{nshard}: handling {len(mine)} of {len(leaves)} leaf categories")
 
     ok = total = 0
+    failed = []
     for c in mine:
         label = slug_label(c["url"])
         try:
@@ -30,7 +31,20 @@ def main():
             ok += 1; total += n
             print(f"OK   {label}: {n} products")
         except Exception as e:
+            failed.append(c)
             print(f"FAIL {label}: {e}")
+
+    # second pass: retry the ones that failed (transient Akamai blocks)
+    if failed:
+        print(f"shard {shard}: retrying {len(failed)} failed categories")
+        for c in failed:
+            label = slug_label(c["url"])
+            try:
+                n = collect(c["url"], label)
+                ok += 1; total += n
+                print(f"RETRY-OK {label}: {n} products")
+            except Exception as e:
+                print(f"RETRY-FAIL {label}: {e}")
     print(f"shard {shard} done: {ok}/{len(mine)} categories, {total} product-rows")
 
 

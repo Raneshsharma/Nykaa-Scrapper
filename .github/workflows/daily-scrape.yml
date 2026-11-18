@@ -10,6 +10,7 @@ on:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 45
     strategy:
       fail-fast: false
       matrix:
@@ -28,3 +29,24 @@ jobs:
           SHARD_INDEX: ${{ matrix.shard }}
           SHARD_COUNT: "8"
         run: python run_all.py
+
+  # Reconciliation: re-scrape any category missing/thin after the shards.
+  # Runs even if some shards failed or timed out, so daily coverage stays ~full.
+  backfill:
+    needs: collect
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install deps
+        run: pip install -r requirements-collector.txt
+      - name: Backfill missing/thin categories
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          REVIEW_SALES_MULT: "20"
+          BACKFILL_ROUNDS: "3"
+        run: python backfill.py
